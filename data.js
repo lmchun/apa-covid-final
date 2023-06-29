@@ -770,7 +770,7 @@ var APP_DATA = {
           "yaw": -0.1892074502407901,
           "pitch": 0.20731978065527557,
           "rotation": 0,
-          "target": "17-lets-attack-the-virus-magazine-cover"
+          "target": "16-lets-attack-the-virus-magazine-cover"
         },
         {
           "yaw": 3.0346993439405594,
@@ -840,7 +840,189 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "15-khmer-girls-in-action",
+      "id": "15-zoom-portrait-hallway",
+      "name": "Zoom Portrait Hallway",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.09187345890960152,
+          "pitch": 0.14499490962102257,
+          "rotation": 0,
+          "target": "16-lets-attack-the-virus-magazine-cover"
+        },
+        {
+          "yaw": 2.0497726023473293,
+          "pitch": 0.03873173673503949,
+          "rotation": 0,
+          "target": "13-hallway"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "16-lets-attack-the-virus-magazine-cover",
+      "name": "Let's Attack the Virus Magazine Cover",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "yaw": -1.663648779635782,
+        "pitch": 0.008855966462153475,
+        "fov": 1.4901891793030413
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.3420067182640842,
+          "pitch": 0.2670658737700897,
+          "rotation": 0,
+          "target": "13-hallway"
+        },
+        {
+          "yaw": -2.441339410868144,
+          "pitch": 0.1371291106380781,
+          "rotation": 5.497787143782138,
+          "target": "17-nail-salon-art"
+        },
+        {
+          "yaw": -0.7837182833749416,
+          "pitch": 0.040733423946083036,
+          "rotation": 0.7853981633974483,
+          "target": "18-khmer-girls-in-action"
+        },
+        {
+          "yaw": 0.11332984699708248,
+          "pitch": 0.1447750399752188,
+          "rotation": 0,
+          "target": "19-hallway-to-videocommunity-rooms"
+        },
+        {
+          "yaw": -0.42727483300970803,
+          "pitch": 0.10319766589186585,
+          "rotation": 5.497787143782138,
+          "target": "24-video-room"
+        },
+        {
+          "yaw": 3.068805289507985,
+          "pitch": 0.041804774630254116,
+          "rotation": 0.7853981633974483,
+          "target": "15-zoom-portrait-hallway"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -1.7031869358412592,
+          "pitch": 0.3497522886687161,
+          "title": "<span id=\"docs-internal-guid-182f4f59-7fff-c61e-383c-36cd7464e81d\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Mike Keo</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">#IAmNotAVirus Campaign, 2020</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>",
+          "text": "<span id=\"docs-internal-guid-8f373230-7fff-d85a-3c37-addde6c47aed\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“The #IAMNOTAVIRUS campaign began online in March 2020 to help Asian American tell their own story. It has made significant impact including the bipartisan passage to include Asian American and Pacific Island History and the No Hate Act. #IAMNOTAVIRUS has become a leading consultant on how institutions, agencies, and companies can make Asian Americans feel seen and heard.”</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
+        }
+      ]
+    },
+    {
+      "id": "17-nail-salon-art",
+      "name": "Nail Salon Art",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "yaw": -1.5499855646487042,
+        "pitch": 0.01436109226451876,
+        "fov": 1.4901891793030413
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.367731156583357,
+          "pitch": 0.06944074041444637,
+          "rotation": 4.71238898038469,
+          "target": "16-lets-attack-the-virus-magazine-cover"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -1.6831449506275415,
+          "pitch": -0.011145146287546481,
+          "title": "<span id=\"docs-internal-guid-1cd257de-7fff-155a-39a5-e26e6c6c0b01\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Jinji Sayson, Polished Tiger</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>",
+          "text": "<span id=\"docs-internal-guid-7134da45-7fff-2ce2-7b32-ca6a48a149fa\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“When we acknowledge someone's color(s), we embrace the full spectrum of their history and experiences, and add more depth and emotional richness to our world. I chose a tiger to embody this message because it is a symbol of strength and power in Vietnamese culture, and many other Asian cultures.”</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“Khi chúng ta nhận ra và chấp nhận màu da của những người khác mình, khi chúng ta chấp nhận lịch sử và những thử thách của họ, chúng ta có thêm chiều sâu và phong phú cảm xúc trong thế giới chúng ta. Tôi chọn một con hổ để thể hiện niềm tin này vì nó là biểu tượng của sức mạnh và quyền lực trong văn hóa Việt Nam và nhiều nền văn hóa châu Á khác.”</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>"
+        },
+        {
+          "yaw": -1.1870091469534891,
+          "pitch": 0.20640978099647,
+          "title": "<span id=\"docs-internal-guid-199253e7-7fff-785c-5a04-c930e96d6770\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Hoai-An Melody Huynh, Mani-curing the Hate</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>",
+          "text": "<span id=\"docs-internal-guid-5165b083-7fff-a2dd-cd7f-848aba2ae021\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">\"The nail salon workforce silently but laboriously toils through each day of work breathing in harmful toxins, and washing the feet and hands of clients who want to have nice nails. They express themselves through the way they continue to work to make a living, they work through racism and inequality. I purposely used only black on white to show the silent simplicity.\"</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“Những người thợ làm móng làm việc thầm lặng nhưng cần mẫn qua từng ngày hít thở những chất độc có hại, rửa chân tay cho những khách hàng muốn có bộ móng đẹp. Họ nói qua cách họ tiếp tục làm việc để kiếm sống, họ tiếp tục làm việc dầu có phân biệt chủng tộc và bất bình đẳng. Tôi cố ý chỉ sử dụng màu đen trên màu trắng để thể hiện sự đơn giảng của thầm lặng.”</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
+        },
+        {
+          "yaw": -1.699796612603997,
+          "pitch": 0.5660107425088157,
+          "title": "<span id=\"docs-internal-guid-94a75c11-7fff-b770-cad4-79fdc032d5d9\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Kevin Minh Nguyen, Heartfelt</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>",
+          "text": "<span id=\"docs-internal-guid-2bc2d2f3-7fff-cb66-7f5d-596a8615ce64\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">\"Our purpose or passion are often held back by other's concerns, opinions, or heart. The golden heart represents outside forces that are preventing us from achieving our own goals. At the same time while trying to reach for our goals we may often ignore the hearts in the way that want to warn or protect us from harm.\"</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“Mục đích hoặc đam mê của chúng ta thường bị kìm hãm bởi những mối quan tâm, ý kiến, hoặc trái tim của người khác. Trái tim vàng đại diện cho những thế lực bên ngoài đang ngăn cản chúng ta đạt được mục tiêu của chính mình. Trong những lúc chạy theo đam mê, chúng ta có thể phớt lờ những trái tim đang lo lắng cho chúng ta, muốn báo hoặc bảo vệ chúng ta từ sự tổn hại</span><span style=\"font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">.”</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>"
+        },
+        {
+          "yaw": -2.118859039078096,
+          "pitch": -0.1714387235051369,
+          "title": "<span id=\"docs-internal-guid-d3c1e1fe-7fff-3764-bc3a-e56405732404\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">California Healthy Nail Salon Collaborative</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>",
+          "text": "<span id=\"docs-internal-guid-1ad55cce-7fff-490d-80af-2ef78f52f7ce\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“In July 2021, The California Healthy Nail Salon Collaborative (CHNSC) partnered with the Vietnamese American Roundtable (VAR) to present Nail Salon Art Contest 2021: Strength, Safety, Solidarity. We invited artists to create art pieces that reflect the strength and humanity of the nail salon workforce and nail salon worker movement through ideas such as community care, healing, and solidarity. Through the art contest, we united against the rise of anti-Asian racism and violence towards healing and empowerment. We believe we have the power to shape and share our stories through our art and collectively uplift one another. Displayed are three pieces that were submitted to the contest, along with artist statements in English and Vietnamese.”</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>"
+        }
+      ]
+    },
+    {
+      "id": "18-khmer-girls-in-action",
       "name": "Khmer Girls in Action",
       "levels": [
         {
@@ -872,7 +1054,7 @@ var APP_DATA = {
           "yaw": -2.691691833139462,
           "pitch": 0.1441008681132434,
           "rotation": 0.7853981633974483,
-          "target": "17-lets-attack-the-virus-magazine-cover"
+          "target": "16-lets-attack-the-virus-magazine-cover"
         },
         {
           "yaw": -0.545142210724757,
@@ -937,188 +1119,6 @@ var APP_DATA = {
           "text": "<span id=\"docs-internal-guid-6012ba87-7fff-7a3f-1bc7-15629f349b0c\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“My artwork is about helping the community to be encouraged to take the vaccine, to promote and educate them about the purpose of the vaccine and how it can overall benefit the community- to “save lives”.I decided to go with this theme because I feel like it truly represents the souls of our young fighters, as they are heroes fighting against Covid-19 and the hardships and dilemmas it has to offer. I also chose superheroes to represent the community because the vaccine is our “power-up”, shielding us against the harm of Covid and ultimately getting us through these tough times. I understand that the pandemic has affected many people of color and with the vaccine so as a vaccinated person of color, getting vaccinated to me means being able to be safe and keep my family and community safe. Since the vaccine is free and noted effective by professionals, it guarantees that hope for safety that we have all been longing for. And soon, my community who has suffered because of corona can once again, go back to their previous daily lives, to work for their families, to share joyous memories with friends, and much more! I hope well for our community, to be blessed and joyous, let us continue our lives and passions through the aid of the vaccine. Continue to be safe and take care, we can do this!”</span></span>"
         }
       ]
-    },
-    {
-      "id": "16-nail-salon-art",
-      "name": "Nail Salon Art",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1344,
-      "initialViewParameters": {
-        "yaw": -1.5499855646487042,
-        "pitch": 0.01436109226451876,
-        "fov": 1.4901891793030413
-      },
-      "linkHotspots": [
-        {
-          "yaw": -0.367731156583357,
-          "pitch": 0.06944074041444637,
-          "rotation": 4.71238898038469,
-          "target": "17-lets-attack-the-virus-magazine-cover"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": -1.6831449506275415,
-          "pitch": -0.011145146287546481,
-          "title": "<span id=\"docs-internal-guid-1cd257de-7fff-155a-39a5-e26e6c6c0b01\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Jinji Sayson, Polished Tiger</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>",
-          "text": "<span id=\"docs-internal-guid-7134da45-7fff-2ce2-7b32-ca6a48a149fa\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“When we acknowledge someone's color(s), we embrace the full spectrum of their history and experiences, and add more depth and emotional richness to our world. I chose a tiger to embody this message because it is a symbol of strength and power in Vietnamese culture, and many other Asian cultures.”</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“Khi chúng ta nhận ra và chấp nhận màu da của những người khác mình, khi chúng ta chấp nhận lịch sử và những thử thách của họ, chúng ta có thêm chiều sâu và phong phú cảm xúc trong thế giới chúng ta. Tôi chọn một con hổ để thể hiện niềm tin này vì nó là biểu tượng của sức mạnh và quyền lực trong văn hóa Việt Nam và nhiều nền văn hóa châu Á khác.”</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>"
-        },
-        {
-          "yaw": -1.1870091469534891,
-          "pitch": 0.20640978099647,
-          "title": "<span id=\"docs-internal-guid-199253e7-7fff-785c-5a04-c930e96d6770\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Hoai-An Melody Huynh, Mani-curing the Hate</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>",
-          "text": "<span id=\"docs-internal-guid-5165b083-7fff-a2dd-cd7f-848aba2ae021\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">\"The nail salon workforce silently but laboriously toils through each day of work breathing in harmful toxins, and washing the feet and hands of clients who want to have nice nails. They express themselves through the way they continue to work to make a living, they work through racism and inequality. I purposely used only black on white to show the silent simplicity.\"</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“Những người thợ làm móng làm việc thầm lặng nhưng cần mẫn qua từng ngày hít thở những chất độc có hại, rửa chân tay cho những khách hàng muốn có bộ móng đẹp. Họ nói qua cách họ tiếp tục làm việc để kiếm sống, họ tiếp tục làm việc dầu có phân biệt chủng tộc và bất bình đẳng. Tôi cố ý chỉ sử dụng màu đen trên màu trắng để thể hiện sự đơn giảng của thầm lặng.”</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
-        },
-        {
-          "yaw": -1.699796612603997,
-          "pitch": 0.5660107425088157,
-          "title": "<span id=\"docs-internal-guid-94a75c11-7fff-b770-cad4-79fdc032d5d9\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Kevin Minh Nguyen, Heartfelt</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>",
-          "text": "<span id=\"docs-internal-guid-2bc2d2f3-7fff-cb66-7f5d-596a8615ce64\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">\"Our purpose or passion are often held back by other's concerns, opinions, or heart. The golden heart represents outside forces that are preventing us from achieving our own goals. At the same time while trying to reach for our goals we may often ignore the hearts in the way that want to warn or protect us from harm.\"</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“Mục đích hoặc đam mê của chúng ta thường bị kìm hãm bởi những mối quan tâm, ý kiến, hoặc trái tim của người khác. Trái tim vàng đại diện cho những thế lực bên ngoài đang ngăn cản chúng ta đạt được mục tiêu của chính mình. Trong những lúc chạy theo đam mê, chúng ta có thể phớt lờ những trái tim đang lo lắng cho chúng ta, muốn báo hoặc bảo vệ chúng ta từ sự tổn hại</span><span style=\"font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">.”</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>"
-        },
-        {
-          "yaw": -2.118859039078096,
-          "pitch": -0.1714387235051369,
-          "title": "<span id=\"docs-internal-guid-d3c1e1fe-7fff-3764-bc3a-e56405732404\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">California Healthy Nail Salon Collaborative</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>",
-          "text": "<span id=\"docs-internal-guid-1ad55cce-7fff-490d-80af-2ef78f52f7ce\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“In July 2021, The California Healthy Nail Salon Collaborative (CHNSC) partnered with the Vietnamese American Roundtable (VAR) to present Nail Salon Art Contest 2021: Strength, Safety, Solidarity. We invited artists to create art pieces that reflect the strength and humanity of the nail salon workforce and nail salon worker movement through ideas such as community care, healing, and solidarity. Through the art contest, we united against the rise of anti-Asian racism and violence towards healing and empowerment. We believe we have the power to shape and share our stories through our art and collectively uplift one another. Displayed are three pieces that were submitted to the contest, along with artist statements in English and Vietnamese.”</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>"
-        }
-      ]
-    },
-    {
-      "id": "17-lets-attack-the-virus-magazine-cover",
-      "name": "Let's Attack the Virus Magazine Cover",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1344,
-      "initialViewParameters": {
-        "yaw": -1.663648779635782,
-        "pitch": 0.008855966462153475,
-        "fov": 1.4901891793030413
-      },
-      "linkHotspots": [
-        {
-          "yaw": 2.3420067182640842,
-          "pitch": 0.2670658737700897,
-          "rotation": 0,
-          "target": "13-hallway"
-        },
-        {
-          "yaw": -2.441339410868144,
-          "pitch": 0.1371291106380781,
-          "rotation": 5.497787143782138,
-          "target": "16-nail-salon-art"
-        },
-        {
-          "yaw": -0.7837182833749416,
-          "pitch": 0.040733423946083036,
-          "rotation": 0.7853981633974483,
-          "target": "15-khmer-girls-in-action"
-        },
-        {
-          "yaw": 0.11332984699708248,
-          "pitch": 0.1447750399752188,
-          "rotation": 0,
-          "target": "19-hallway-to-videocommunity-rooms"
-        },
-        {
-          "yaw": -0.42727483300970803,
-          "pitch": 0.10319766589186585,
-          "rotation": 5.497787143782138,
-          "target": "24-video-room"
-        },
-        {
-          "yaw": 3.068805289507985,
-          "pitch": 0.041804774630254116,
-          "rotation": 0.7853981633974483,
-          "target": "18-zoom-portrait-hallway"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": -1.7031869358412592,
-          "pitch": 0.3497522886687161,
-          "title": "<span id=\"docs-internal-guid-182f4f59-7fff-c61e-383c-36cd7464e81d\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Mike Keo</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">#IAmNotAVirus Campaign, 2020</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>",
-          "text": "<span id=\"docs-internal-guid-8f373230-7fff-d85a-3c37-addde6c47aed\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“The #IAMNOTAVIRUS campaign began online in March 2020 to help Asian American tell their own story. It has made significant impact including the bipartisan passage to include Asian American and Pacific Island History and the No Hate Act. #IAMNOTAVIRUS has become a leading consultant on how institutions, agencies, and companies can make Asian Americans feel seen and heard.”</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
-        }
-      ]
-    },
-    {
-      "id": "18-zoom-portrait-hallway",
-      "name": "Zoom Portrait Hallway",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1344,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -0.09187345890960152,
-          "pitch": 0.14499490962102257,
-          "rotation": 0,
-          "target": "17-lets-attack-the-virus-magazine-cover"
-        },
-        {
-          "yaw": 2.0497726023473293,
-          "pitch": 0.03873173673503949,
-          "rotation": 0,
-          "target": "13-hallway"
-        }
-      ],
-      "infoHotspots": []
     },
     {
       "id": "19-hallway-to-videocommunity-rooms",
@@ -1428,7 +1428,7 @@ var APP_DATA = {
           "yaw": 2.00227832224755,
           "pitch": 0.24960740877074272,
           "rotation": 0,
-          "target": "17-lets-attack-the-virus-magazine-cover"
+          "target": "16-lets-attack-the-virus-magazine-cover"
         }
       ],
       "infoHotspots": [

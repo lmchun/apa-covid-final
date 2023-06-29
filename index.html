@@ -1,103 +1,118 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Project Title</title>
+<title>Storefront for Ideas</title>
 <meta charset="utf-8">
 <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
 <style> @-ms-viewport { width: device-width; } </style>
 <link rel="stylesheet" href="vendor/reset.min.css">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+<script src="intropop.js"></script>
 </head>
 <body class="multiple-scenes ">
 
+  <dialog class="modal" data-modal>
+    <button class="close" data-close-modal>X</button>
+    <div class="content">
+      <h4>Storefront for Ideas</h4>
+      <p>Virtual Exhibit</p>
+      <span class="material-symbols-outlined">
+swipe
+</span>
+      <p>Click and drag your mouse,
+look around the scene.</p>
+      
+       <button class="btn-black" data-close-modal>Enter</button>
+    </div>
+     </dialog>
 <div id="pano"></div>
 
 <div id="sceneList">
-  <ul class="scenes">
+  <ol class="scenes">
     
       <a href="javascript:void(0)" class="scene" data-id="0-storefront-for-ideas">
         <li class="text">Storefront for Ideas</li>
       </a>
       <ul class="indent">
-        <a href="javascript:void(0)" class="scene" data-id="1-monterey-park-memorial-outside">
-          <li class="text">↳ Monterey Park Memorial Outside</li>
-        </a>
-      </ul>
-  
+      <a href="javascript:void(0)" class="scene" data-id="1-monterey-park-memorial-outside">
+        <li class="text">↳ Monterey Park Memorial Outside</li>
+      </a>
+    </ul>
       <a href="javascript:void(0)" class="scene" data-id="2-entrance">
         <li class="text">Entrance</li>
       </a>
-    
+      <ul class="indent">
       <a href="javascript:void(0)" class="scene" data-id="3-red-canary-and-parade">
-        <li class="text">Red Canary and Parade</li>
+        <li class="text">↳ Red Canary and Parade</li>
       </a>
-    
+      </ul>
       <a href="javascript:void(0)" class="scene" data-id="4-acknowledgements">
         <li class="text">Acknowledgements</li>
       </a>
-    
+      <ul class="indent">
       <a href="javascript:void(0)" class="scene" data-id="5-half-moon-bay-memorial">
-        <li class="text">Half Moon Bay Memorial</li>
+        <li class="text">↳ Half Moon Bay Memorial</li>
       </a>
-    
+      </ul>
       <a href="javascript:void(0)" class="scene" data-id="6-massage-parlor-front-in">
         <li class="text">Massage Parlor Front In</li>
       </a>
-    
+      <ul class="indent">
       <a href="javascript:void(0)" class="scene" data-id="7-massage-parlor-back-in">
-        <li class="text">Massage Parlor Back In</li>
+        <li class="text">↳ Massage Parlor Back In</li>
       </a>
     
       <a href="javascript:void(0)" class="scene" data-id="8-massage-parlor-hall-front">
-        <li class="text">Massage Parlor Hall Front</li>
+        <li class="text">↳ Massage Parlor Hall Front</li>
       </a>
     
       <a href="javascript:void(0)" class="scene" data-id="9-massage-parlor-hall-back">
-        <li class="text">Massage Parlor Hall Back</li>
+        <li class="text">↳ Massage Parlor Hall Back</li>
       </a>
-    
+      </ul>
       <a href="javascript:void(0)" class="scene" data-id="10-quilt">
         <li class="text">Quilt</li>
       </a>
-    
+      <ul class="indent">
       <a href="javascript:void(0)" class="scene" data-id="11-quilt-right">
-        <li class="text">Quilt Right</li>
+        <li class="text">↳ Quilt Right</li>
       </a>
     
       <a href="javascript:void(0)" class="scene" data-id="12-quilt-left">
-        <li class="text">Quilt Left</li>
+        <li class="text">↳ Quilt Left</li>
       </a>
-    
+      </ul>
       <a href="javascript:void(0)" class="scene" data-id="13-hallway">
         <li class="text">Hallway</li>
       </a>
-    
+      <ul class="indent">
       <a href="javascript:void(0)" class="scene" data-id="14-caaav-chinatown-tenants-union">
-        <li class="text">CAAAV Chinatown Tenants Union</li>
+        <li class="text">↳ CAAAV Chinatown Tenants Union</li>
       </a>
-    
-      <a href="javascript:void(0)" class="scene" data-id="15-khmer-girls-in-action">
-        <li class="text">Khmer Girls in Action</li>
-      </a>
-    
-      <a href="javascript:void(0)" class="scene" data-id="16-nail-salon-art">
-        <li class="text">Nail Salon Art</li>
-      </a>
-    
-      <a href="javascript:void(0)" class="scene" data-id="17-lets-attack-the-virus-magazine-cover">
-        <li class="text">Let&#39;s Attack the Virus Magazine Cover</li>
-      </a>
-    
-      <a href="javascript:void(0)" class="scene" data-id="18-zoom-portrait-hallway">
+      </ul>
+      <a href="javascript:void(0)" class="scene" data-id="15-zoom-portrait-hallway">
         <li class="text">Zoom Portrait Hallway</li>
       </a>
     
+      <a href="javascript:void(0)" class="scene" data-id="16-lets-attack-the-virus-magazine-cover">
+        <li class="text">Let&#39;s Attack the Virus Magazine Cover</li>
+      </a>
+      <ul class="indent">
+      <a href="javascript:void(0)" class="scene" data-id="17-nail-salon-art">
+        <li class="text">↳ Nail Salon Art</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="18-khmer-girls-in-action">
+        <li class="text">↳ Khmer Girls in Action</li>
+      </a>
+      </ul>
       <a href="javascript:void(0)" class="scene" data-id="19-hallway-to-videocommunity-rooms">
         <li class="text">Hallway to Video/Community Rooms</li>
       </a>
-    
+      <ul class="indent">
       <a href="javascript:void(0)" class="scene" data-id="20-community-corkboard">
-        <li class="text">Community Corkboard</li>
+        <li class="text">↳ Community Corkboard</li>
       </a>
     
       <a href="javascript:void(0)" class="scene" data-id="21-community-work----katydoesartstuff">
@@ -105,35 +120,35 @@
       </a>
     
       <a href="javascript:void(0)" class="scene" data-id="22-zoom-portraits-left">
-        <li class="text">Zoom Portraits Left</li>
+        <li class="text">↳ Zoom Portraits Left</li>
       </a>
     
       <a href="javascript:void(0)" class="scene" data-id="23-zoom-portraits-right">
-        <li class="text">Zoom Portraits Right</li>
+        <li class="text">↳ Zoom Portraits Right</li>
       </a>
-    
+    </ul>
       <a href="javascript:void(0)" class="scene" data-id="24-video-room">
         <li class="text">Video Room</li>
       </a>
-    
+      <ul class="indent">
       <a href="javascript:void(0)" class="scene" data-id="25-community-recommendations">
-        <li class="text">Community Recommendations</li>
+        <li class="text">↳ Community Recommendations</li>
       </a>
     
       <a href="javascript:void(0)" class="scene" data-id="26-video-room-desk">
-        <li class="text">Video Room Desk</li>
+        <li class="text">↳ Video Room Desk</li>
       </a>
-    
+    </ul>
       <a href="javascript:void(0)" class="scene" data-id="27-community-room">
         <li class="text">Community Room</li>
       </a>
-    
+    <ul class="indent">
       <a href="javascript:void(0)" class="scene" data-id="28-zoom-portraits-community-room">
-        <li class="text">Zoom Portraits Community Room</li>
+        <li class="text">↳ Zoom Portraits Community Room</li>
       </a>
     
       <a href="javascript:void(0)" class="scene" data-id="29-lover-letters-to-chinatown">
-        <li class="text">Lover Letters to Chinatown</li>
+        <li class="text">↳ Lover Letters to Chinatown</li>
       </a>
     
       <a href="javascript:void(0)" class="scene" data-id="30-asian-american-feminist-corner">
@@ -141,26 +156,26 @@
       </a>
     
       <a href="javascript:void(0)" class="scene" data-id="31-asian-american-feminist-collective-bookshelf">
-        <li class="text">Asian American Feminist Collective Bookshelf</li>
+        <li class="text">↳ Asian American Feminist Collective Bookshelf</li>
       </a>
     
       <a href="javascript:void(0)" class="scene" data-id="32-asian-feminist-posters">
-        <li class="text">Asian Feminist Posters</li>
+        <li class="text">↳ Asian Feminist Posters</li>
       </a>
     
       <a href="javascript:void(0)" class="scene" data-id="33-we-belong">
-        <li class="text">We Belong</li>
+        <li class="text">↳ We Belong</li>
       </a>
     
       <a href="javascript:void(0)" class="scene" data-id="34-muralist-richard-choi-oakland-ca-2020">
-        <li class="text">Muralist Richard Choi, Oakland CA, 2020</li>
+        <li class="text">↳ Muralist Richard Choi, Oakland CA, 2020</li>
       </a>
     
       <a href="javascript:void(0)" class="scene" data-id="35-chinatown-art-brigade">
-        <li class="text">Chinatown Art Brigade</li>
+        <li class="text">↳ Chinatown Art Brigade</li>
       </a>
-    
-  </ul>
+    </ul>
+  </ol>
 </div>
 
 <div id="titleBar">
