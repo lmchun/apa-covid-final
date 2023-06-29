@@ -390,8 +390,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   padding: 8px 10px;
 
   border-radius: 5px;
-  color:#000;
-  background-color: white;
+  /* color:#000; */
+  background-color: rgba(34, 33, 33, 0.591);
   /* background-color: rgb(58,68,84); */
   /* background-color: rgba(58,68,84,0.8); */
 
@@ -470,7 +470,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   height: 40px;
   border-radius: 20px;
   color:#000;
-  background-color: white;
+  background-color: #087CB6;
   /* background-color: rgb(103,115,131); */
   cursor: pointer;
   -webkit-transition: width 0.3s ease-in-out 0.5s,
@@ -572,7 +572,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 40px;
   border-top-right-radius: 5px;
   color:#000;
-  background-color: white;
+  background-color: #087CB6;
   /* background-color: rgb(78,88,104); */
   visibility: hidden;
   -ms-transform: perspective(200px) rotateY(90deg);
@@ -621,7 +621,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   left: 0;
   padding: 10px;
   color:#000;
-  background-color: white;
+  background-color: #BAE4F9;
   /* background-color: rgb(58,68,84); */
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
