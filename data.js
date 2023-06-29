@@ -538,13 +538,13 @@ var APP_DATA = {
           "yaw": -1.8634316289447792,
           "pitch": 0.16613860729727392,
           "rotation": 0,
-          "target": "14-hallway"
+          "target": "13-hallway"
         },
         {
           "yaw": -2.4318090054252686,
           "pitch": 0.17803658162294234,
           "rotation": 0,
-          "target": "11-quilt"
+          "target": "10-quilt"
         },
         {
           "yaw": 1.851398894634971,
@@ -569,52 +569,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "10-caaav-chinatown-tenants-union",
-      "name": "CAAAV Chinatown Tenants Union",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1344,
-      "initialViewParameters": {
-        "yaw": 1.5574304712881233,
-        "pitch": 0.014127945358925587,
-        "fov": 1.4901891793030413
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.6622443919918233,
-          "pitch": 0.12739451705417082,
-          "rotation": 0.7853981633974483,
-          "target": "14-hallway"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": 0.9495672985753902,
-          "pitch": -0.07180932197022827,
-          "title": "<span id=\"docs-internal-guid-3c23b6dd-7fff-54df-0e50-b85cf9c4c785\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">CAAAV Chinatown Tenants Union</span></span>",
-          "text": "<span id=\"docs-internal-guid-e2a69a17-7fff-6ea3-8327-aa164eaf93cf\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 12pt 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Housing Justice Posters, 2020</span></p><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“COVID-19 is an economic crisis as much as it is a health crisis. Public housing was left to decay so developers could swoop in and privatize public homes, which has now left CAAAV members in apartments without repairs, without consistent heat and without adequate cleaning, even in this pandemic. Gentrification has forced members to live in overcrowded conditions in Chinatown, cramming multiple people into small apartments with no possibility for social distancing. Many of CAAAV’s members are undocumented and don’t qualify for stimulus checks or any form of relief. A large number of members are workers over the age of 60 who must choose to work despite the dire health risks or lose their jobs without the possibility of unemployment benefits. We continue our mission to organize against displacement, fight gentrification, and build the power of working class people in Chinatown so that we can determine the future of our homes and neighborhoods. Displayed are posters from CAAAV #CancelRent campaigns throughout the pandemic.”</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
-        }
-      ]
-    },
-    {
-      "id": "11-quilt",
+      "id": "10-quilt",
       "name": "Quilt",
       "levels": [
         {
@@ -646,25 +601,25 @@ var APP_DATA = {
           "yaw": -0.06233341017655647,
           "pitch": 0.07981626732368596,
           "rotation": 5.497787143782138,
-          "target": "14-hallway"
+          "target": "13-hallway"
         },
         {
           "yaw": -2.1129113965614934,
           "pitch": -0.055999098965738625,
           "rotation": 0,
-          "target": "13-quilt-left"
+          "target": "12-quilt-left"
         },
         {
           "yaw": -0.8844313345970747,
           "pitch": -0.10390479332024682,
           "rotation": 0,
-          "target": "12-quilt-right"
+          "target": "11-quilt-right"
         },
         {
           "yaw": 0.6808942983903208,
           "pitch": 0.1878847871528624,
           "rotation": 0.7853981633974483,
-          "target": "10-caaav-chinatown-tenants-union"
+          "target": "14-caaav-chinatown-tenants-union"
         }
       ],
       "infoHotspots": [
@@ -683,7 +638,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "12-quilt-right",
+      "id": "11-quilt-right",
       "name": "Quilt Right",
       "levels": [
         {
@@ -715,19 +670,19 @@ var APP_DATA = {
           "yaw": -1.9914770591191786,
           "pitch": 0.3881951073029377,
           "rotation": 0,
-          "target": "11-quilt"
+          "target": "10-quilt"
         },
         {
           "yaw": -1.1521619967426062,
           "pitch": 0.1657555032579623,
           "rotation": 0.7853981633974483,
-          "target": "13-quilt-left"
+          "target": "12-quilt-left"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "13-quilt-left",
+      "id": "12-quilt-left",
       "name": "Quilt Left",
       "levels": [
         {
@@ -759,19 +714,19 @@ var APP_DATA = {
           "yaw": -0.2587635695473516,
           "pitch": 0.11054293854970965,
           "rotation": 10.995574287564278,
-          "target": "11-quilt"
+          "target": "10-quilt"
         },
         {
           "yaw": -0.42694054302915774,
           "pitch": -0.1612948339909348,
           "rotation": 5.497787143782138,
-          "target": "12-quilt-right"
+          "target": "11-quilt-right"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "14-hallway",
+      "id": "13-hallway",
       "name": "Hallway",
       "levels": [
         {
@@ -803,13 +758,13 @@ var APP_DATA = {
           "yaw": -2.649745894480448,
           "pitch": 0.16882942400675205,
           "rotation": 0.7853981633974483,
-          "target": "11-quilt"
+          "target": "10-quilt"
         },
         {
           "yaw": 1.3094579170444085,
           "pitch": 0.22119391407485978,
           "rotation": 0,
-          "target": "10-caaav-chinatown-tenants-union"
+          "target": "14-caaav-chinatown-tenants-union"
         },
         {
           "yaw": -0.1892074502407901,
@@ -836,6 +791,51 @@ var APP_DATA = {
           "pitch": 0.5583377329338486,
           "title": "<span id=\"docs-internal-guid-c29e7652-7fff-4855-c93b-95cbd9377489\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">阿姨縫紉隊</span></span>",
           "text": "<span id=\"docs-internal-guid-b76c8272-7fff-2bda-d1da-72bc587b4fcc\"><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">「隨著疫情蔓延，一個主要由亞裔美國女性組成的800 人團隊，在網上親切自稱『阿姨』，眾人凝聚動力，在家縫製了數千個口罩。『阿姨』們向尋求庇護者、原住民社區、被囚人士、農場工人以及其他受新冠肺炎影響甚大的人分發口罩。她們共提供了超過 350,000 個自製口罩，在社會動蕩之時，此舉滿足了緊急的公共衛生需求，同時也表達了團結、關懷和政治上的支持。『阿姨縫紉隊』致力為公共衛生給予跨界別的貢獻，以德回應了歷史上移民勞工團體被剝削利益。</span></p><br><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">梅麗莎‧奎爾特 (Melissa Quilter) 在 2020 年製作了『阿姨縫紉隊被子』(ASS Quilt)，她說：我的曾祖母是她的農場社區裡縫被子最巧手的，可是我在弗吉尼亞大學讀書時才學會縫紉被子。我從實驗室走出去，走進了一家被子店，便墜入了愛河，隨後自學了這門手藝。後來，我為孩子們小學的抽獎活動製作被子，還在其他場合都製作過被子：包括出生、死亡、生日、成長。孩子長大後，我的被子就會成為一種政治表達形式。參與『阿姨縫紉隊』期間，我為各位阿姨叔叔所作出的貢獻而欣喜，這件事情太美了，所以我也將這部分的美麗放到這張被子當中。」</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
+        }
+      ]
+    },
+    {
+      "id": "14-caaav-chinatown-tenants-union",
+      "name": "CAAAV Chinatown Tenants Union",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1344,
+      "initialViewParameters": {
+        "yaw": 1.5574304712881233,
+        "pitch": 0.014127945358925587,
+        "fov": 1.4901891793030413
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.6622443919918233,
+          "pitch": 0.12739451705417082,
+          "rotation": 0.7853981633974483,
+          "target": "13-hallway"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": 0.9495672985753902,
+          "pitch": -0.07180932197022827,
+          "title": "<span id=\"docs-internal-guid-3c23b6dd-7fff-54df-0e50-b85cf9c4c785\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">CAAAV Chinatown Tenants Union</span></span>",
+          "text": "<span id=\"docs-internal-guid-e2a69a17-7fff-6ea3-8327-aa164eaf93cf\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 12pt 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Housing Justice Posters, 2020</span></p><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“COVID-19 is an economic crisis as much as it is a health crisis. Public housing was left to decay so developers could swoop in and privatize public homes, which has now left CAAAV members in apartments without repairs, without consistent heat and without adequate cleaning, even in this pandemic. Gentrification has forced members to live in overcrowded conditions in Chinatown, cramming multiple people into small apartments with no possibility for social distancing. Many of CAAAV’s members are undocumented and don’t qualify for stimulus checks or any form of relief. A large number of members are workers over the age of 60 who must choose to work despite the dire health risks or lose their jobs without the possibility of unemployment benefits. We continue our mission to organize against displacement, fight gentrification, and build the power of working class people in Chinatown so that we can determine the future of our homes and neighborhoods. Displayed are posters from CAAAV #CancelRent campaigns throughout the pandemic.”</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
         }
       ]
     },
@@ -884,7 +884,7 @@ var APP_DATA = {
           "yaw": 2.4961311556124057,
           "pitch": 0.17933212620516592,
           "rotation": 0,
-          "target": "14-hallway"
+          "target": "13-hallway"
         }
       ],
       "infoHotspots": [
@@ -1034,7 +1034,7 @@ var APP_DATA = {
           "yaw": 2.3420067182640842,
           "pitch": 0.2670658737700897,
           "rotation": 0,
-          "target": "14-hallway"
+          "target": "13-hallway"
         },
         {
           "yaw": -2.441339410868144,
@@ -1115,7 +1115,7 @@ var APP_DATA = {
           "yaw": 2.0497726023473293,
           "pitch": 0.03873173673503949,
           "rotation": 0,
-          "target": "14-hallway"
+          "target": "13-hallway"
         }
       ],
       "infoHotspots": []
@@ -1221,7 +1221,7 @@ var APP_DATA = {
           "yaw": 2.8326147627989684,
           "pitch": 0.22525259651771457,
           "rotation": 0,
-          "target": "14-hallway"
+          "target": "13-hallway"
         },
         {
           "yaw": -2.7158417894156592,
@@ -1289,7 +1289,7 @@ var APP_DATA = {
           "yaw": -3.087474669676622,
           "pitch": 0.1295254797375307,
           "rotation": 0,
-          "target": "14-hallway"
+          "target": "13-hallway"
         },
         {
           "yaw": -2.4373888610172756,
