@@ -292,7 +292,7 @@ var APP_DATA = {
           "yaw": -0.1687606303452469,
           "pitch": 0.08555217430153661,
           "title": "ACKNOWLEDGEMENTS",
-          "text":"<p>Archive as Memorial is one of many lifeforms the A/P/A Voices: A COVID-19 Public Memory Project has taken over the span of three years. The exhibition was made possible by project volunteers and core committee members, including Lena Sze and Crystal Baik, and generous support from Laura Chen-Schultz and Amita Manghnani at the Asian/Pacific/American Institute at NYU and Shannon O’Neill at the NYU Tamiment Library & Robert F. Wagner Labor Archives. Funding for the exhibition was provided by the Asian Women Giving Circle, a donor advised fund of the Ms. Foundation for Women, and the Asian/Pacific/American Institute at NYU. We are grateful for the many people who made this exhibition possible:</p><br><ul>Volunteers: <li>Zain Alam </li><li>Minju Bae</li><li>Emma Callahan</li> <li>Euxia Chen</li><li>Ronak Gandhi</li><li>Cindy Gao</li><li>Rosario Joaquin</li><li>Linda Kuo </li><li>Rochelle Kwan</li><li>Sarah Lin</li><li>Sarah Nguyễn</li><li>Loubna Qutami </li></ul><ul>Narrators and artifact donors:<li>Asian Pacific Environmental Network</li><li>Mohamed Attia</li><li>California Healthy Nail Salon Collaborative</li><li>Alexander Catedral</li><li>huiying b. chan</li><li>Monyee Chau</li><li>Chinatown Art Brigade</li><li>Cathy Dang </li><li>Desis Rising Up and Moving (DRUM)</li><li>Xenia Dient</li><li>Lisa Fu</li><li>Mike Keo</li><li>Khmer Girls in Action</li><li>Sarita Khurana</li><li>Patricia Kim</li><li>Eddie Kochiyama</li><li>Khalid Latif</li><li>Kathy Liang</li><li>Emily Mock</li><li>Taiyo Na and Magnetic North</li><li>Nguyên Khôi Nguyễn</li><li>Pacific Islander Center of Primary Care Excellence</li><li>Queens Mutual Aid Network (Moumita Ahmed / Rima Begum)</li><li>Tavae Samuelu</li><li>Garveaux Sibulboro</li><li>South Asian Americans Leading Together (SAALT)</li><li>Celina Su</li><li>Chanika Svetvilas </li><li>Kabzuag Vaj</li><li>Alice Wong</li><li>Kristina Wong</li><li>Betty Yu</li><li>Margaret Yuen</li></ul>"
+          "text":"<p>Archive as Memorial is one of many lifeforms the A/P/A Voices: A COVID-19 Public Memory Project has taken over the span of three years. The exhibition was made possible by project volunteers and core committee members, including Lena Sze and Crystal Baik, and generous support from Laura Chen-Schultz and Amita Manghnani at the Asian/Pacific/American Institute at NYU and Shannon O’Neill at the NYU Tamiment Library & Robert F. Wagner Labor Archives. Funding for the exhibition was provided by the Asian Women Giving Circle, a donor advised fund of the Ms. Foundation for Women, and the Asian/Pacific/American Institute at NYU. We are grateful for the many people who made this exhibition possible:</p><br><ul>Volunteers: <li>Zain Alam </li><li>Minju Bae</li><li>Emma Callahan</li> <li>Euxia Chen</li><li>Ronak Gandhi</li><li>Cindy Gao</li><li>Rosario Joaquin</li><li>Linda Kuo </li><li>Rochelle Kwan</li><li>Sarah Lin</li><li>Sarah Nguyễn</li><li>Loubna Qutami </li></ul><br><ul>Narrators and artifact donors:<br><li>Asian Pacific Environmental Network</li><li>Mohamed Attia</li><li>California Healthy Nail Salon Collaborative</li><li>Alexander Catedral</li><li>huiying b. chan</li><li>Monyee Chau</li><li>Chinatown Art Brigade</li><li>Cathy Dang </li><li>Desis Rising Up and Moving (DRUM)</li><li>Xenia Dient</li><li>Lisa Fu</li><li>Mike Keo</li><li>Khmer Girls in Action</li><li>Sarita Khurana</li><li>Patricia Kim</li><li>Eddie Kochiyama</li><li>Khalid Latif</li><li>Kathy Liang</li><li>Emily Mock</li><li>Taiyo Na and Magnetic North</li><li>Nguyên Khôi Nguyễn</li><li>Pacific Islander Center of Primary Care Excellence</li><li>Queens Mutual Aid Network (Moumita Ahmed / Rima Begum)</li><li>Tavae Samuelu</li><li>Garveaux Sibulboro</li><li>South Asian Americans Leading Together (SAALT)</li><li>Celina Su</li><li>Chanika Svetvilas </li><li>Kabzuag Vaj</li><li>Alice Wong</li><li>Kristina Wong</li><li>Betty Yu</li><li>Margaret Yuen</li></ul><br><ul>Community partners:<br> <li>Asian American Feminist Collective (AAFC)Auntie Sewing Squad</li><li>CAAAV: Organizing Asian Communities Empowering Pacific Islander Communities (EPIC)</li><li>Freedom, Inc.</li><li>Immigrant Social Services (ISS)</li><li>Nodutdol for Korean Community Development </li><li>Red Canary Song</li><li>The W.O.W. Project</li></ul>"
         },
         {
           "yaw": -0.1547721202475003,
@@ -633,6 +633,34 @@ var APP_DATA = {
           "pitch": 0.30589279230507316,
           "title": "<span id=\"docs-internal-guid-25b331fb-7fff-7edd-9c1f-15f05dfb18e1\"><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">阿姨縫紉隊</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>",
           "text": "<span id=\"docs-internal-guid-a233f3d0-7fff-9f44-672c-97b3ebc9e272\"><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">「隨著疫情蔓延，一個主要由亞裔美國女性組成的800 人團隊，在網上親切自稱『阿姨』，眾人凝聚動力，在家縫製了數千個口罩。『阿姨』們向尋求庇護者、原住民社區、被囚人士、農場工人以及其他受新冠肺炎影響甚大的人分發口罩。她們共提供了超過 350,000 個自製口罩，在社會動蕩之時，此舉滿足了緊急的公共衛生需求，同時也表達了團結、關懷和政治上的支持。『阿姨縫紉隊』致力為公共衛生給予跨界別的貢獻，以德回應了歷史上移民勞工團體被剝削利益。</span></p><br><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">梅麗莎‧奎爾特 (Melissa Quilter) 在 2020 年製作了『阿姨縫紉隊被子』(ASS Quilt)，她說：我的曾祖母是她的農場社區裡縫被子最巧手的，可是我在弗吉尼亞大學讀書時才學會縫紉被子。我從實驗室走出去，走進了一家被子店，便墜入了愛河，隨後自學了這門手藝。後來，我為孩子們小學的抽獎活動製作被子，還在其他場合都製作過被子：包括出生、死亡、生日、成長。孩子長大後，我的被子就會成為一種政治表達形式。參與『阿姨縫紉隊』期間，我為各位阿姨叔叔所作出的貢獻而欣喜，這件事情太美了，所以我也將這部分的美麗放到這張被子當中。」</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
+        }
+      ], "iframeSpots": [
+        {
+          "yaw": 0.0335,
+          "pitch": -0.102,
+          "title": "Organization Interviews", 
+          "message":"(These interviews tell the story of how each community was doing during the pandemic.)" 
+        }
+      ],
+      "iframeSelects":[
+        {
+          "yaw": 0.0335,
+          "pitch": -0.102,
+          "speakers":["Tavae Samuelu","Khalid Latif","Cathy Dang","Chanika Svetvilas","Alice Wong","Moumita Ahmed & Rima Begum", "Celina Su","Kabzuag Vaj", "Lisa Fu"],
+          "links":["https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8",],
+          "speakerID":["TSamuelu","KLatif","CDang","CSvetvilas","AWong","MAhmed","CSu","JVaj","LFu"],
+          "maps": [
+            {"speaker_id": "TSamuelu",
+            "name": "TavaeSamuelu",
+            "link_attributes": {
+              "height": "720",
+              "width": "1280",
+              "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
+              "title": "Youtube video player",
+              "frameborder": "0"
+            }
+          }
+          ]
         }
       ]
     },
