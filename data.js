@@ -49,6 +49,15 @@ var APP_DATA = {
           "title": "Storefront for Ideas",
           "text": "powered by Immigrant Social Services 127 Walker storefrontforideas.co"
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -94,7 +103,16 @@ var APP_DATA = {
           "title": "Community Memorial",
           "text": "Monterey Park and Half Moon Bay<div><br></div><div>Memorial for the deaths in these communities.</div>"
         }
-      ]
+     ],
+     "iframeSpots": [
+       {
+         
+       }
+     ],
+     "iframeSelects":[
+       {
+       }
+     ]
     },
     {
       "id": "2-entrance",
@@ -161,6 +179,15 @@ var APP_DATA = {
           "pitch": 0.11824560004831142,
           "title": "存檔作為紀念 2023年1月19日至3月25日",
           "text": "《存檔作為紀念》(Archive as Memorial) 是一個由「亞太裔聲音」 (A/P/A Voices) 成員組織的展覽。這是一個關於新冠肺炎的公共記念項目，此組織是由亞裔美國人和太平洋島民文化工作者、口述歷史學家、教育工作者、照顧者和活動家所組成的志願團隊，他們從2020年3月封城開始合作，致力紀錄新冠肺炎大流行，以及其對紐約以外地區的亞太裔團體所造成之各種影響。此次項目是與紐約大學亞太裔美國人研究所和紐約大學塔米門特圖書館與羅伯特·F·瓦格納勞工檔案館合作建立的。</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 12pt; font-family: Arial; color: rgb(34, 34, 34); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">《存檔作為紀念》反映了美國亞太裔的幾個歷史事件相交點的經歷，包括持續的全球健康危機、跨國性的黑人生命運動，以及推動了全國在艱巨與傷痛期間為社區安全討論和悼念的反亞暴力案件的飆升。該展覽包括採訪錄像、共享故事和物品，既為我們的將來，也為我們的過去記錄了守望相助、社區關懷、經濟衝擊、跨種族團結、殘障人士關心以及各種哀悼模式之議題。</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 12pt; font-family: Arial; color: rgb(34, 34, 34); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">雖然最近有關亞太裔社區的議題經常圍繞着憤怒、好奇或者同情，但我們盼用自己的表達方式去改變並紀錄我們社區的故事。這不但對亞裔社區的恢復過程很重要，而且有助我們於重建新冠肺炎後的世界之同時治療自己。我們一方面拒絕被資本主義迫我們經濟前進，另一方面渴望攜手為彼此創作，為檔案館提供另一種解讀，亦即活動家實踐行動的體現，以此加強社區的聯繫。</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 12pt; font-family: Arial; color: rgb(34, 34, 34); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">首席策展人和駐社區發聲人：Tomie Arai 和 Diane Wong</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 12pt; font-family: Arial; color: rgb(34, 34, 34); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">策展委員：Laura Chen-Schultz, Preeti Sharma, Vivian Truong 和 Mi Hyun Yoon</span></p><div><span style=\"font-size: 12pt; font-family: Arial; color: rgb(34, 34, 34); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
+        }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
         }
       ]
     },
@@ -237,6 +264,15 @@ var APP_DATA = {
           "title": "Singha Hon Ceremonial stanchion for W.O.W. Project’s 5th Anniversary Celebration and Parade, 2021.",
           "text": "Created in collaboration with members of the W.O.W. project for a community parade through Chinatown, based on images from the vessel designed by Tomie Arai."
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -300,6 +336,15 @@ var APP_DATA = {
           "title": "Flower Activity",
           "text": "Visitors were welcome to make their own paper flowers and put it on the massage bed to the left of this table."
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -356,6 +401,15 @@ var APP_DATA = {
           "pitch": 0.653712858271863,
           "title": "Community Memorial Activity",
           "text": "Visitors were welcomed to write words of support and add it to the memorial."
+        }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
         }
       ]
     },
@@ -414,6 +468,15 @@ var APP_DATA = {
           "title": "<span id=\"docs-internal-guid-60230eb4-7fff-7a89-4375-1b2062063985\"><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">紅鶯歌</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>",
           "text": "<span id=\"docs-internal-guid-4b99cb76-7fff-8ddd-610a-6870f5308e5c\"><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">「這紀念館是一所典型按摩院的模型；這樣的設置呈現出許多移民女工稱之為『家』的隱藏工作空間。外牆使用從按摩院取樣的紗簾，既作裝飾，亦作畫廊的白色牆壁。</span></p><br><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">『八條生命』的眼睛由一位紅鶯歌的藝術家和按摩院工作者們描繪。以砧板作為畫布，展現出按摩工作者在日常生活中對有限資源的微妙管理，也展示了移民女工在美容院居住及工作是最對她們來說最經濟實惠的選擇。</span></p><br><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">簾子後面是一張按摩床，這個空間既是臥室也是守夜祭壇。舊日曆和鑰匙扣都是從我們的社區收集回來的，代表著對過去每一天的追憶。我們歡迎您為祭壇製作紙花，與我們一起表示深切哀悼。</span></p><br><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">在您注視這個充滿關懷與滋養、剛柔交集的空間時，我們邀請您默想一下：究竟這些場所對社會存在怎樣的威脅，以至於警察、「白人拯救者」和槍手認為需要毀掉它們?</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -452,7 +515,16 @@ var APP_DATA = {
           "target": "6-massage-parlor-front-in"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
+      ]
     },
     {
       "id": "8-massage-parlor-hall-front",
@@ -502,7 +574,16 @@ var APP_DATA = {
           "target": "3-red-canary-and-parade"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
+      ]
     },
     {
       "id": "9-massage-parlor-hall-back",
@@ -564,6 +645,15 @@ var APP_DATA = {
           "pitch": 0.24681281852953774,
           "title": "<span id=\"docs-internal-guid-32488379-7fff-2723-f0aa-e77b4831645a\"><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Red Canary Song</span></p><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">My Seven Years in Flushing, 2022</span></p><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Audio with English Subtitles, 06:32</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>",
           "text": "<span id=\"docs-internal-guid-a8b0a63e-7fff-4dc8-79af-9aa3f510efda\"><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">In an oral history interview conducted by the RCS Outreach team, migrant massage worker Lisa speaks about her life as a criminalized laborer in Flushing, Queens. Reflecting on experiences of policing, discrimination and arduous labor conditions, she shares thoughts on bodywork as community carework, and her journey of finding a sense of home in a marginalized community on alien soil.&nbsp;</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
+        }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
         }
       ]
     },
@@ -706,7 +796,16 @@ var APP_DATA = {
           "target": "12-quilt-left"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
+      ]
     },
     {
       "id": "12-quilt-left",
@@ -750,7 +849,16 @@ var APP_DATA = {
           "target": "11-quilt-right"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
+      ]
     },
     {
       "id": "13-hallway",
@@ -819,6 +927,15 @@ var APP_DATA = {
           "title": "<span id=\"docs-internal-guid-c29e7652-7fff-4855-c93b-95cbd9377489\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">阿姨縫紉隊</span></span>",
           "text": "<span id=\"docs-internal-guid-b76c8272-7fff-2bda-d1da-72bc587b4fcc\"><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">「隨著疫情蔓延，一個主要由亞裔美國女性組成的800 人團隊，在網上親切自稱『阿姨』，眾人凝聚動力，在家縫製了數千個口罩。『阿姨』們向尋求庇護者、原住民社區、被囚人士、農場工人以及其他受新冠肺炎影響甚大的人分發口罩。她們共提供了超過 350,000 個自製口罩，在社會動蕩之時，此舉滿足了緊急的公共衛生需求，同時也表達了團結、關懷和政治上的支持。『阿姨縫紉隊』致力為公共衛生給予跨界別的貢獻，以德回應了歷史上移民勞工團體被剝削利益。</span></p><br><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">梅麗莎‧奎爾特 (Melissa Quilter) 在 2020 年製作了『阿姨縫紉隊被子』(ASS Quilt)，她說：我的曾祖母是她的農場社區裡縫被子最巧手的，可是我在弗吉尼亞大學讀書時才學會縫紉被子。我從實驗室走出去，走進了一家被子店，便墜入了愛河，隨後自學了這門手藝。後來，我為孩子們小學的抽獎活動製作被子，還在其他場合都製作過被子：包括出生、死亡、生日、成長。孩子長大後，我的被子就會成為一種政治表達形式。參與『阿姨縫紉隊』期間，我為各位阿姨叔叔所作出的貢獻而欣喜，這件事情太美了，所以我也將這部分的美麗放到這張被子當中。」</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -864,6 +981,15 @@ var APP_DATA = {
           "title": "<span id=\"docs-internal-guid-3c23b6dd-7fff-54df-0e50-b85cf9c4c785\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">CAAAV Chinatown Tenants Union</span></span>",
           "text": "<span id=\"docs-internal-guid-e2a69a17-7fff-6ea3-8327-aa164eaf93cf\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 12pt 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Housing Justice Posters, 2020</span></p><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“COVID-19 is an economic crisis as much as it is a health crisis. Public housing was left to decay so developers could swoop in and privatize public homes, which has now left CAAAV members in apartments without repairs, without consistent heat and without adequate cleaning, even in this pandemic. Gentrification has forced members to live in overcrowded conditions in Chinatown, cramming multiple people into small apartments with no possibility for social distancing. Many of CAAAV’s members are undocumented and don’t qualify for stimulus checks or any form of relief. A large number of members are workers over the age of 60 who must choose to work despite the dire health risks or lose their jobs without the possibility of unemployment benefits. We continue our mission to organize against displacement, fight gentrification, and build the power of working class people in Chinatown so that we can determine the future of our homes and neighborhoods. Displayed are posters from CAAAV #CancelRent campaigns throughout the pandemic.”</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -908,7 +1034,16 @@ var APP_DATA = {
           "target": "13-hallway"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
+      ]
     },
     {
       "id": "16-lets-attack-the-virus-magazine-cover",
@@ -983,6 +1118,15 @@ var APP_DATA = {
           "title": "<span id=\"docs-internal-guid-182f4f59-7fff-c61e-383c-36cd7464e81d\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Mike Keo</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">#IAmNotAVirus Campaign, 2020</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>",
           "text": "<span id=\"docs-internal-guid-8f373230-7fff-d85a-3c37-addde6c47aed\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“The #IAMNOTAVIRUS campaign began online in March 2020 to help Asian American tell their own story. It has made significant impact including the bipartisan passage to include Asian American and Pacific Island History and the No Hate Act. #IAMNOTAVIRUS has become a leading consultant on how institutions, agencies, and companies can make Asian Americans feel seen and heard.”</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -1045,6 +1189,15 @@ var APP_DATA = {
           "pitch": -0.1714387235051369,
           "title": "<span id=\"docs-internal-guid-d3c1e1fe-7fff-3764-bc3a-e56405732404\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">California Healthy Nail Salon Collaborative</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>",
           "text": "<span id=\"docs-internal-guid-1ad55cce-7fff-490d-80af-2ef78f52f7ce\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“In July 2021, The California Healthy Nail Salon Collaborative (CHNSC) partnered with the Vietnamese American Roundtable (VAR) to present Nail Salon Art Contest 2021: Strength, Safety, Solidarity. We invited artists to create art pieces that reflect the strength and humanity of the nail salon workforce and nail salon worker movement through ideas such as community care, healing, and solidarity. Through the art contest, we united against the rise of anti-Asian racism and violence towards healing and empowerment. We believe we have the power to shape and share our stories through our art and collectively uplift one another. Displayed are three pieces that were submitted to the contest, along with artist statements in English and Vietnamese.”</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>"
+        }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
         }
       ]
     },
@@ -1145,6 +1298,15 @@ var APP_DATA = {
           "title": "<span id=\"docs-internal-guid-720da277-7fff-56bf-ffa6-f5951b93cebd\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Humaira Hasan</span></span>",
           "text": "<span id=\"docs-internal-guid-6012ba87-7fff-7a3f-1bc7-15629f349b0c\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“My artwork is about helping the community to be encouraged to take the vaccine, to promote and educate them about the purpose of the vaccine and how it can overall benefit the community- to “save lives”.I decided to go with this theme because I feel like it truly represents the souls of our young fighters, as they are heroes fighting against Covid-19 and the hardships and dilemmas it has to offer. I also chose superheroes to represent the community because the vaccine is our “power-up”, shielding us against the harm of Covid and ultimately getting us through these tough times. I understand that the pandemic has affected many people of color and with the vaccine so as a vaccinated person of color, getting vaccinated to me means being able to be safe and keep my family and community safe. Since the vaccine is free and noted effective by professionals, it guarantees that hope for safety that we have all been longing for. And soon, my community who has suffered because of corona can once again, go back to their previous daily lives, to work for their families, to share joyous memories with friends, and much more! I hope well for our community, to be blessed and joyous, let us continue our lives and passions through the aid of the vaccine. Continue to be safe and take care, we can do this!”</span></span>"
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -1201,7 +1363,16 @@ var APP_DATA = {
           "target": "27-community-room"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
+      ]
     },
     {
       "id": "20-community-corkboard",
@@ -1257,7 +1428,16 @@ var APP_DATA = {
           "target": "24-video-room"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
+      ]
     },
     {
       "id": "21-community-work----katydoesartstuff",
@@ -1325,7 +1505,16 @@ var APP_DATA = {
           "target": "24-video-room"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
+      ]
     },
     {
       "id": "22-zoom-portraits-left",
@@ -1370,6 +1559,15 @@ var APP_DATA = {
           "title": "<span id=\"docs-internal-guid-555a2588-7fff-0223-25e9-bc058a7c0a4a\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">A/P/A Voices</span></p><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Narrator Portraits&nbsp;</span></p></span>",
           "text": "<span id=\"docs-internal-guid-d7b61f62-7fff-2253-e71a-b1631334ed89\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">This wall displays a sample of interviews that our team of volunteers conducted on zoom between May of 2020 through the end of 2022. To date, we have recorded over seventy remote interviews. Our narrators include Asian immigrant service providers, first responders, advocates for street vendors, sex workers, nail salon workers, tenants fighting evictions, mutual aid and food pantry workers, poets, musicians, artists, students, educators, and activists. Our collaborative work is premised on the idea that memory and meaning are built concurrently. How we process and grieve, construct memory, make meaning, and how we take stock now and into the future is central to our efforts. Our work intervenes to document stories within our communities, in our own words, and in our own time. We invite you to scan the QR code next to each portrait and listen to a curated selection of the interviews.&nbsp;</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -1408,7 +1606,16 @@ var APP_DATA = {
           "target": "21-community-work----katydoesartstuff"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
+      ]
     },
     {
       "id": "24-video-room",
@@ -1465,6 +1672,15 @@ var APP_DATA = {
           "title": "<span id=\"docs-internal-guid-5b73f1f0-7fff-1bda-04e2-4295c20dbca9\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Mon Yee Chau</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">CID Poster, 2020</span></span>",
           "text": "<span id=\"docs-internal-guid-1465b84b-7fff-0858-6a90-979d2448c93b\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“The resurgence of yellow peril has become a xenophobic and racist response to COVID19, ultimately threatening Chinatowns globally. Already vulnerable due to gentrification of neighborhoods, a reminder of the resiliency and solidarity across communities in dire need. Seattle’s Chinatown International District had been the target of white nationalists stickers as a fear tactic to intimidate the neighborhood. This was intentional and racially charged. I made these posters for folks to share and post as a response, I am posting the PDF for free for folks to print/post/share themselves.”</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -1510,6 +1726,15 @@ var APP_DATA = {
           "title": "&nbsp;Community Bookshelf",
           "text": "<span id=\"docs-internal-guid-8af27470-7fff-091e-f45b-48f6c2b4a35a\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">In the spirit of community abundance and nourishment, this corner is a free community library. We encourage visitors to take a book and leave one in return. What books did you read during the pandemic that nurtured your soul? Were there books that transported you elsewhere when the city was still in lockdown? What stories do you still dream about</span><span style=\"font-size: 10.5pt; font-family: Arial; color: rgb(112, 117, 122); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">—</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">or perhaps, made you dream again? We’ve seeded the community library with books from our personal collections, and would love to see the shelves filled with some of your favorites.</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">With love,</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Tomie Arai and Diane Wong&nbsp;</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -1541,7 +1766,16 @@ var APP_DATA = {
         "fov": 1.5707963267948966
       },
       "linkHotspots": [],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
+      ]
     },
     {
       "id": "27-community-room",
@@ -1609,7 +1843,16 @@ var APP_DATA = {
           "target": "33-we-belong"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
+      ]
     },
     {
       "id": "28-zoom-portraits-community-room",
@@ -1672,6 +1915,15 @@ var APP_DATA = {
           "title": "<span id=\"docs-internal-guid-5204d62b-7fff-881f-234f-f5c3519ae88d\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Freedom Inc.</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Freedom Youth Squad #PoliceFreeSchools Rally, 2020</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>",
           "text": "<span id=\"docs-internal-guid-2575fcf8-7fff-7529-cbfb-5d0ae9a9fd84\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“On June 29th, 2020, the Madison Metropolitan School District (MMSD) Board of Education voted unanimously to end the contract with the Madison Police Department (MPD). This victory was made possible after 3 and a half years of organizing and countless hours of community engagement, public testimony, and powerful protests led by Black and Southeast Asian girls and LGBTQI+ youth at Freedom Inc. For the young people at Freedom Inc, police free schools are about reimagining and investing in the leadership, wellness, and creativity of Black youth and youth of color, implementing transformative justice in all schools, and giving most impacted youth, parents, and trusted adults decision-making power over schools.”</span></span>"
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -1728,6 +1980,15 @@ var APP_DATA = {
           "pitch": -0.20264369144339867,
           "title": "<span id=\"docs-internal-guid-cbe15f75-7fff-4a47-525e-119b55cb4c8f\"><p dir=\"ltr\" style=\"line-height:1.44;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">The W.O.W. Project</span></p><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Love Letters to Chinatown Project, 2021</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>",
           "text": "<span id=\"docs-internal-guid-255cf0a8-7fff-5d10-6857-e85dafc1a66b\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(34, 34, 34); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Design by Clae Lu&nbsp;</span></p><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(34, 34, 34); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Left: Love Letters to Chinatown zine cover</span></p><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(34, 34, 34); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Right: Love Letter by Margaret Yuen</span></p><br><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“We resist by waging love. The Love Letters to Chinatown 給唐人街情書 project seeks to collect love letters, poems, illustrations, paintings, etc. inspired and dedicated to Chinatown to help uplift our neighborhood in its darkest times. We invite you to submit art: poetry, stories, letters, illustrations in response to Huiying's prompt: </span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Write a love letter to a person, business, or organization you hold dear in Chinatown. Consider Chinatown as a living being. What would you say to Chinatown during this time? What do you want her to know? What stories do you want to share?”</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
+        }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
         }
       ]
     },
@@ -1798,6 +2059,15 @@ var APP_DATA = {
           "title": "<span id=\"docs-internal-guid-88e31a23-7fff-37d5-5416-d691fe2e28df\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Asian American Feminist Collective</span></span>",
           "text": "<span id=\"docs-internal-guid-54654edd-7fff-7b8f-73ef-72544de5e658\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“In 2017, Mayor de Blasio signed off on a multi-billion dollar borough-based jail expansion plan, which includes building a 40-story mega jail in Chinatown despite protests from the community. The location of this bookshelf is pertinent as the backside of this gallery is directly connected to the jail demolition site that has already broken ground. Here we have a collection of crucial reads on abolition, feminist praxis, and community care. Feel free to peruse the books and zines on this shelf, but please leave them behind for others to interact with as well.</span></p><br><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">This bookshelf is curated by the Asian American Feminist Collective (AAFC), a grassroots racial and gender justice group engaging in intersectional feminist politics grounded within our diasporic communities. Learn more and print your own zines at asianamfeminism.org/resources.”</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -1836,7 +2106,16 @@ var APP_DATA = {
           "target": "30-asian-american-feminist-corner"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
+      ]
     },
     {
       "id": "32-asian-feminist-posters",
@@ -1892,6 +2171,15 @@ var APP_DATA = {
           "pitch": 0.06715561889216737,
           "title": "<span id=\"docs-internal-guid-bdfde5e3-7fff-0128-44ce-d90784532212\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Feminist Antibodies: Care in the Time of Coronavirus, March 2020</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></span>",
           "text": "<span id=\"docs-internal-guid-e5d145dd-7fff-1b54-f641-00b04e1c7cc4\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Designed by Rachel Kuo and co-edited with Salonee Bhaman, Merlin Sabal, Vivian Shaw, and Tiffany Diane Tso and in partnership with Bluestockings Bookstore. Cover art by Amira Lin.</span></p><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">“This zine offers a way to make meaning of the coronavirus crisis through long-standing practices of care that come out of Asian American histories and politics. We bring together first-hand accounts and analyses from our communities, including health and service workers and caregivers on the frontlines, students, people living with chronic illness, journalists, and organizers. Together, this collection of stories, essays, and artwork shows how we experience, resist, and grapple with a viral outbreak that has been racialized as Asian and reveals the places where our collective social safety net is particularly threadbare.”</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
+        }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
         }
       ]
     },
@@ -1956,6 +2244,15 @@ var APP_DATA = {
           "title": "<span id=\"docs-internal-guid-68fb95f9-7fff-2efb-b19f-3471444159fe\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Magnetic North and Taiyo Na </span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">We Belong ‘21, Music Video, 2021</span></span>",
           "text": "<span id=\"docs-internal-guid-33c02669-7fff-5f32-212e-61bad5048365\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">In 2010, “We Belong” by Magnetic North &amp; Taiyo Na was a rallying cry for humanity and belonging amidst the AAPI community's experiences with erasure, exclusion and absurdity. Sampling Asian American folk pioneer Chris Iijima on the chorus, the song was part of a larger thematic album Home:Word, where homeland and refuge were explored from an Asian American migrant perspective. In 2021, the context of increased anti-Asian violence, particularly the mass shootings in Atlanta and Indianapolis, called for a new rendition of the song. \"We Belong '21\" adds layers of urgency and relevance to the original topic, delving deeper into experiences of a community being appropriated and othered while pointing towards the possibilities of solidarity and action to bring us forward. The incomparable Ann One lends her voice to sing Iijima's timeless words. \"We Belong '21,\" a music video dedicated to Corky Lee and every other photographer who captured the AAPI experience so that we cannot be erased.</span></span>"
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -2007,6 +2304,15 @@ var APP_DATA = {
           "title": "Muralist Richard Choi, Oakland CA, 2020",
           "text":"After George Floyd was murdered, Kochiyama participated in marches in Oakland, CA,  protesting police brutality and demanding justice for all victims of racial  oppression. As businesses in downtown Oakland and Chinatown began boarding up their stores, the plywood coverings quickly became blank canvases. Plywood was transformed  into meaningful protest art. The first murals that went up were painted by graffiti artists born and raised in Oakland, highlighting the names of victims of racist violence: George Floyd, Breonna Taylor, Philando Castille,  Oscar Grant, Michael Brown, Ahmaud Arbery, and Eric Garner. Kochiyama began noticing and photographing signs supporting Asian and Black unity. These photographs document an explosion of grassroots protest art. Kochiyama wrote: “People of all ages, colors, genders, and artistic expertise have hit the streets, with crayons,  chalk, paint brushes and mops, and lots of spray paint to send a message that Black Lives  Matter. And all of us who have suffered racial oppression ain’t gonna be silent no more!! My neighborhood looks much more beautiful now."
         }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
+        }
       ]
     },
     {
@@ -2057,6 +2363,15 @@ var APP_DATA = {
           "pitch": 0.04595608872848622,
           "title": "Chinatown Art Brigade Envisioning Abolition In Our Local Asian American Communities, 2021",
           "text": "Teach-in organized by Chinatown Art Brigade as part of Creative Time’s RED STAGE in Astor Place. Specifically we will be putting forth an abolitionist framework as a way to challenge and oppose the current calls for more policing to combat Anti-Asian hate and the new jail plan in Chinatown. Featured speakers and organizations include: CAAAV Organizing Communities, Asian American Feminist Collective, Red Canary Song, #8toAbolition, 18 Million Rising, and GenForward."
+        }
+      ],
+      "iframeSpots": [
+        {
+          
+        }
+      ],
+      "iframeSelects":[
+        {
         }
       ]
     }
