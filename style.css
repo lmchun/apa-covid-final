@@ -873,3 +873,7 @@ body.view-control-buttons .viewControlButton {
   color: white;
   padding: 1rem 2rem;
 }
+
+body{
+  font-family: 'Gothic A1', sans-serif;
+}
