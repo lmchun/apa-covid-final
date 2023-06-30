@@ -1429,12 +1429,35 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -1.4,
+          "yaw": -1.8,
           "pitch": 0,
-          "title": "Title",
-          "text":"read <a href='https://drive.google.com/file/d/1KPnCCWXSqOxwE4llstSEhuQe30sLL6wS/view?usp=sharing'target='_blank'>Love Letters to Chinatown</a>"
+          "title": "From Quarantine, With Love - Nodutdol Minju Bae",
+          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/13t1GadR2ahilqTJ2tjSASJpfuDm8TUBC/view?usp=sharing'target='_blank'>From Quarantine, With Love - Nodutdol Minju Bae</a> documents how the members of our community weathered the quarantine experience over the span of 3 weeks amidst the covid-19 pandemic in nyc."
         },
         {
+          "yaw": -1.4,
+          "pitch": 0,
+          "title": "Love Letters to Chinatown",
+          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/1KPnCCWXSqOxwE4llstSEhuQe30sLL6wS/view?usp=sharing'target='_blank'>Love Letters to Chinatown</a> project seeks to collect love letters, poems, illustrations, paintings, etc. inspired and dedicated to Chinatown to help uplift our neighborhood in its darkest times."
+        },
+        {
+          "yaw": -1.1,
+          "pitch": 0,
+          "title": "In the Belly Vol 3",
+          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/1ci7gzeL42Nzq4aOvuJEr3fWPgQXN5-8o/view?usp=sharing'target='_blank'>In the Belly Vol 3</a> an abolitionist journal VOL. 3 JANUARY + FEBRUARY + MARCH 2020"
+        },
+        {
+          "yaw": -1.5,
+          "pitch": 0.4,
+          "title": "Sanctions of Empire - Nodutdol Minju Bae",
+          "text":"<img src='' alt='cover of Sanctions of Empire'><a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/13t1GadR2ahilqTJ2tjSASJpfuDm8TUBC/view?usp=sharing'target='_blank'>From Quarantine, With Love - Nodutdol Minju Bae</a> documents how the members of our community weathered the quarantine experience over the span of 3 weeks amidst the covid-19 pandemic in nyc."
+        },
+        {
+          "yaw": -1.25,
+          "pitch": 0.4,
+          "title": "Sanctions-of-Empire - Nodutdol Minju Bae",
+          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/13t1GadR2ahilqTJ2tjSASJpfuDm8TUBC/view?usp=sharing'target='_blank'>From Quarantine, With Love - Nodutdol Minju Bae</a> documents how the members of our community weathered the quarantine experience over the span of 3 weeks amidst the covid-19 pandemic in nyc."
+        },{
 
         }
       ],
