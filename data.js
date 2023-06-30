@@ -1429,40 +1429,46 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -1.82,
-          "pitch": 0.1,
+          "yaw": -1.9,
+          "pitch": 0.25,
           "title": "From Quarantine, With Love - Nodutdol Minju Bae",
-          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/13t1GadR2ahilqTJ2tjSASJpfuDm8TUBC/view?usp=sharing'target='_blank'>From Quarantine, With Love - Nodutdol Minju Bae</a> documents how the members of our community weathered the quarantine experience over the span of 3 weeks amidst the covid-19 pandemic in nyc."
+          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/13t1GadR2ahilqTJ2tjSASJpfuDm8TUBC/view?usp=sharing'target='_blank'><div style='display: flex;justify-content: center;'><img src='/img/withlove.jpg' style='width:100px;' alt='cover of From Quarantine with Love'></div>From Quarantine, With Love - Nodutdol Minju Bae</a> documents how the members of our community weathered the quarantine experience over the span of 3 weeks amidst the covid-19 pandemic in nyc."
         },
         {
-          "yaw": -1.46,
-          "pitch": -0.08,
+          "yaw": -1.54,
+          "pitch": 0.15,
           "title": "Love Letters to Chinatown",
-          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/1KPnCCWXSqOxwE4llstSEhuQe30sLL6wS/view?usp=sharing'target='_blank'>Love Letters to Chinatown</a> project seeks to collect love letters, poems, illustrations, paintings, etc. inspired and dedicated to Chinatown to help uplift our neighborhood in its darkest times."
+          "text":"<a style='color:blue; text-decoration:underline;'href='https://drive.google.com/file/d/1KPnCCWXSqOxwE4llstSEhuQe30sLL6wS/view?usp=sharing'target='_blank'><div style='display: flex;justify-content: center;'><img src='/img/loveletter.jpg' style='width:100px;' alt='cover of Love Letters to Chinatown'></div><br>Love Letters to Chinatown</a> project seeks to collect love letters, poems, illustrations, paintings, etc. inspired and dedicated to Chinatown to help uplift our neighborhood in its darkest times."
         },
         {
-          "yaw": -1.056,
-          "pitch": -0.14,
+          "yaw": -1.08,
+          "pitch": 0,
           "title": "In the Belly Vol 3",
-          "text":"<a style='color:blue; text-decoration:underline;'href='https://drive.google.com/file/d/1ci7gzeL42Nzq4aOvuJEr3fWPgQXN5-8o/view?usp=sharing'target='_blank'><div style='display: flex;justify-content: center;'><img src='/img/sanctions.jpg' style='width:100px;' alt='cover of Sanctions of Empire'></div>In the Belly Vol 3</a> an abolitionist journal VOL. 3 JANUARY + FEBRUARY + MARCH 2020"
+          "text":"<a style='color:blue; text-decoration:underline;'href='https://drive.google.com/file/d/1ci7gzeL42Nzq4aOvuJEr3fWPgQXN5-8o/view?usp=sharing'target='_blank'><div style='display: flex;justify-content: center;'><img src='/img/inthebellyvol3.jpg' style='width:100px;' alt='cover of Sanctions of Empire'></div>In the Belly Vol 3</a> an abolitionist journal VOL. 3 JANUARY + FEBRUARY + MARCH 2020"
         },
         {
-          "yaw": -1.6,
-          "pitch": 0.6,
+          "yaw": -0.82,
+          "pitch": -0.12,
+          "title": "Building Power Safety Through Solidarity",
+          "text":"<a style='color:blue; text-decoration:underline;'href='https://drive.google.com/file/d/1ci7gzeL42Nzq4aOvuJEr3fWPgQXN5-8o/view?usp=sharing'target='_blank'><div style='display: flex;justify-content: center;'><img src='/img/buildingsolidarity.jpg' style='width:100px;' alt='cover of Building Power Safety Through Solidarity'></div>Building Power Safety Through Solidarity</a>Working Class Organization in NYC during COVID-19, a community report by Desis rising up and moving"
+        },
+        {
+          "yaw": -1.75,
+          "pitch": 0.68,
           "title": "Woven with Elders",
-          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/13t1GadR2ahilqTJ2tjSASJpfuDm8TUBC/view?usp=sharing'target='_blank'><div style='display: flex;justify-content: center;'><img src='/img/sanctions.jpg' style='width:100px;' alt='cover of Sanctions of Empire'></div><br>From Quarantine, With Love - Nodutdol Minju Bae</a> documents how the members of our community weathered the quarantine experience over the span of 3 weeks amidst the covid-19 pandemic in nyc."
+          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/13t1GadR2ahilqTJ2tjSASJpfuDm8TUBC/view?usp=sharing'target='_blank'><div style='display: flex;justify-content: center;'><img src='/img/wovenwelders.jpg' style='width:100px;' alt='cover of Sanctions of Empire'></div><br>Woven with Elders</a> pacific islander vaccine toolkit Fact Sheet & Frequently Asked Questions."
         },
         {
           "yaw": -1.25,
-          "pitch": 0.5,
+          "pitch": 0.65,
           "title": "Sanctions-of-Empire - Nodutdol Minju Bae",
-          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/13t1GadR2ahilqTJ2tjSASJpfuDm8TUBC/view?usp=sharing'target='_blank'><div style='display: flex;justify-content: center;'><img src='/img/sanctions.jpg' style='width:100px;' alt='cover of Sanctions of Empire'></div><br>From Quarantine, With Love - Nodutdol Minju Bae</a> documents how the members of our community weathered the quarantine experience over the span of 3 weeks amidst the covid-19 pandemic in nyc."
+          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/13t1GadR2ahilqTJ2tjSASJpfuDm8TUBC/view?usp=sharing'target='_blank'><div style='display: flex;justify-content: center;'><img src='/img/sanctions.jpg' style='width:100px;' alt='cover of Sanctions of Empire'></div><br>Sanctions of Empire</a> is comprised of diasporic Koreans and comrades based in Le Nape Hoking New York."
         },
         {
-          "yaw": -1,
-          "pitch": 0.35,
+          "yaw": -0.8,
+          "pitch": -0.35,
           "title": "In the Belly Vol 4",
-          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/13t1GadR2ahilqTJ2tjSASJpfuDm8TUBC/view?usp=sharing'target='_blank'><div style='display: flex;justify-content: center;'><img src='/img/sanctions.jpg' style='width:100px;' alt='cover of Sanctions of Empire'></div><br>From Quarantine, With Love - Nodutdol Minju Bae</a> documents how the members of our community weathered the quarantine experience over the span of 3 weeks amidst the covid-19 pandemic in nyc."
+          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/1eKrfIQSLJd-tq0HBPyNdonVUnfyuuZJx/view?usp=sharing'target='_blank'><div style='display: flex;justify-content: center;'><img src='/img/inthebellyvol4.jpg' style='width:100px;' alt='cover of Sanctions of Empire'></div><br>In the Belly VOL. 4 </a> an abolitionist journal, SEPTEMBER 2022"
         },{
 
         }
