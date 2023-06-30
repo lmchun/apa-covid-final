@@ -1682,7 +1682,7 @@ var APP_DATA = {
       ],
       "iframeSelects":[
         {
-          "yaw": 4.4,
+          "yaw": 4.2,
           "pitch": -0.102,
           "speakers":["Tavae Samuelu","Khalid Latif","Cathy Dang","Chanika Svetvilas","Alice Wong","Moumita Ahmed & Rima Begum", "Celina Su","Kabzuag Vaj", "Lisa Fu"],
           "links":["https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8",],
@@ -1697,8 +1697,88 @@ var APP_DATA = {
               "title": "Youtube video player",
               "frameborder": "0"
             }
+          },
+          {"speaker_id": "TSamuelu",
+            "name": "TavaeSamuelu",
+            "link_attributes": {
+              "height": "720",
+              "width": "1280",
+              "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
+              "title": "Youtube video player",
+              "frameborder": "0"
+            }
+          },
+          {"speaker_id": "TSamuelu",
+            "name": "TavaeSamuelu",
+            "link_attributes": {
+              "height": "720",
+              "width": "1280",
+              "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
+              "title": "Youtube video player",
+              "frameborder": "0"
+            }
+          },
+          {"speaker_id": "TSamuelu",
+            "name": "TavaeSamuelu",
+            "link_attributes": {
+              "height": "720",
+              "width": "1280",
+              "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
+              "title": "Youtube video player",
+              "frameborder": "0"
+            }
+          },
+          {"speaker_id": "TSamuelu",
+            "name": "TavaeSamuelu",
+            "link_attributes": {
+              "height": "720",
+              "width": "1280",
+              "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
+              "title": "Youtube video player",
+              "frameborder": "0"
+            }
+          },
+          {"speaker_id": "TSamuelu",
+            "name": "TavaeSamuelu",
+            "link_attributes": {
+              "height": "720",
+              "width": "1280",
+              "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
+              "title": "Youtube video player",
+              "frameborder": "0"
+            }
+          },
+          {"speaker_id": "TSamuelu",
+            "name": "TavaeSamuelu",
+            "link_attributes": {
+              "height": "720",
+              "width": "1280",
+              "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
+              "title": "Youtube video player",
+              "frameborder": "0"
+            }
+          },
+          {"speaker_id": "TSamuelu",
+            "name": "TavaeSamuelu",
+            "link_attributes": {
+              "height": "720",
+              "width": "1280",
+              "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
+              "title": "Youtube video player",
+              "frameborder": "0"
+            }
+          },
+          {"speaker_id": "TSamuelu",
+          "name": "TavaeSamuelu",
+          "link_attributes": {
+            "height": "720",
+            "width": "1280",
+            "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
+            "title": "Youtube video player",
+            "frameborder": "0"
           }
-          ]
+        }
+      ]
         }
       ]
     },

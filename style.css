@@ -955,22 +955,22 @@ body{
   padding: 1em;
   font-size: 12px;
   text-align: center;
-  background-color: #444;
-  color: #ddd;
+  background-color: #ffffff;
+  color: #4f4f4f;
   transition: .3s background-color ease-in-out,
               .3s color ease-in-out;
 }
 
 #iframeselect li:hover{
-  background-color: #666;
-  color: #fff;
+  background-color: #ededed;
+  color: #3e3e3e;
 }
 
 #iframespot {
   background-color: #000000;
   border-radius: 4rem;
   color: rgb(187, 187, 187);
-  border: 4rem solid rgb(198, 198, 198);
+  border: 1rem solid rgb(198, 198, 198);
   position: relative;
   width: 2400px;
   height: 1350px;
