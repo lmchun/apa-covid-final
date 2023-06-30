@@ -796,31 +796,12 @@ var APP_DATA = {
       "infoHotspots": [],
       "iframeSpots": [
         {
-          "yaw": 0.0335,
-          "pitch": -0.102,
-          "title": "Organization Interviews", 
-          "message":"(These interviews tell the story of how each community was doing during the pandemic.)" 
+        
         }
       ],
       "iframeSelects":[
         {
-          "yaw": 0.0335,
-          "pitch": -0.102,
-          "speakers":["Tavae Samuelu","Khalid Latif","Cathy Dang","Chanika Svetvilas","Alice Wong","Moumita Ahmed & Rima Begum", "Celina Su","Kabzuag Vaj", "Lisa Fu"],
-          "links":["https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8",],
-          "speakerID":["TSamuelu","KLatif","CDang","CSvetvilas","AWong","MAhmed","CSu","JVaj","LFu"],
-          "maps": [
-            {"speaker_id": "TSamuelu",
-            "name": "TavaeSamuelu",
-            "link_attributes": {
-              "height": "720",
-              "width": "1280",
-              "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
-              "title": "Youtube video player",
-              "frameborder": "0"
-            }
-          }
-          ]
+      
         }
       ]
     },
@@ -947,31 +928,12 @@ var APP_DATA = {
       ],
       "iframeSpots": [
         {
-          "yaw": 0.0335,
-          "pitch": -0.102,
-          "title": "Organization Interviews", 
-          "message":"(These interviews tell the story of how each community was doing during the pandemic.)" 
+        
         }
       ],
       "iframeSelects":[
         {
-          "yaw": 0.0335,
-          "pitch": -0.102,
-          "speakers":["Kristina Wong"],
-          "links":["https://www.youtube.com/watch?v=WQBkb3oHa40&list=PLY-nTM9hMNIciRdTRHXTMWUyG46t1b9y4&index=9&pp=iAQB"],
-          "speakerID":["KWong"],
-          "maps": [
-            {"speaker_id": "KWong",
-            "name": "KristinaWong",
-            "link_attributes": {
-              "height": "720",
-              "width": "1280",
-              "src": "https://www.youtube.com/watch?v=WQBkb3oHa40&list=PLY-nTM9hMNIciRdTRHXTMWUyG46t1b9y4&index=9&pp=iAQB",
-              "title": "Youtube video player",
-              "frameborder": "0"
-            }
-          }
-          ]
+    
         }
       ]
     },
@@ -1712,11 +1674,31 @@ var APP_DATA = {
       ],
       "iframeSpots": [
         {
-          
+          "yaw": 4.8,
+          "pitch": -0.102,
+          "title": "Organization Interviews", 
+          "message":"(These interviews tell the story of how each community was doing during the pandemic.)" 
         }
       ],
       "iframeSelects":[
         {
+          "yaw": 4.4,
+          "pitch": -0.102,
+          "speakers":["Tavae Samuelu","Khalid Latif","Cathy Dang","Chanika Svetvilas","Alice Wong","Moumita Ahmed & Rima Begum", "Celina Su","Kabzuag Vaj", "Lisa Fu"],
+          "links":["https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8",],
+          "speakerID":["TSamuelu","KLatif","CDang","CSvetvilas","AWong","MAhmed","CSu","JVaj","LFu"],
+          "maps": [
+            {"speaker_id": "TSamuelu",
+            "name": "TavaeSamuelu",
+            "link_attributes": {
+              "height": "720",
+              "width": "1280",
+              "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
+              "title": "Youtube video player",
+              "frameborder": "0"
+            }
+          }
+          ]
         }
       ]
     },
@@ -1806,11 +1788,31 @@ var APP_DATA = {
       "infoHotspots": [],
       "iframeSpots": [
         {
-          
+          "yaw": 0.0335,
+          "pitch": -0.102,
+          "title": "Organization Interviews", 
+          "message":"(These interviews tell the story of how each community was doing during the pandemic.)" 
         }
       ],
       "iframeSelects":[
         {
+          "yaw": 0.0335,
+          "pitch": -0.102,
+          "speakers":["Tavae Samuelu","Khalid Latif","Cathy Dang","Chanika Svetvilas","Alice Wong","Moumita Ahmed & Rima Begum", "Celina Su","Kabzuag Vaj", "Lisa Fu"],
+          "links":["https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8",],
+          "speakerID":["TSamuelu","KLatif","CDang","CSvetvilas","AWong","MAhmed","CSu","JVaj","LFu"],
+          "maps": [
+            {"speaker_id": "TSamuelu",
+            "name": "TavaeSamuelu",
+            "link_attributes": {
+              "height": "720",
+              "width": "1280",
+              "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
+              "title": "Youtube video player",
+              "frameborder": "0"
+            }
+          }
+          ]
         }
       ]
     },
@@ -1883,11 +1885,31 @@ var APP_DATA = {
       "infoHotspots": [],
       "iframeSpots": [
         {
-          
+          "yaw": -1.6,
+          "pitch": -0.102,
+          "title": "We Belong Music Video", 
+          "message":"We Belong Music Video" 
         }
       ],
       "iframeSelects":[
         {
+          "yaw": -2.2,
+          "pitch": 0,
+          "speakers":["We Belong Music Video"],
+          "links":["https://www.youtube.com/embed/2k8euwSwXWU"],
+          "speakerID":["WeBelong"],
+          "maps": [
+            {"speaker_id": "Belong",
+            "name": "We Belong",
+            "link_attributes": {
+              "height": "720",
+              "width": "1280",
+              "src": "https://www.youtube.com/embed/2k8euwSwXWU",
+              "title": "Youtube video player",
+              "frameborder": "0"
+            }
+          }
+          ]
         }
       ]
     },
@@ -2284,11 +2306,31 @@ var APP_DATA = {
       ],
       "iframeSpots": [
         {
-          
+          "yaw": 4.6,
+          "pitch": -0.102,
+          "title": "Organization Interviews", 
+          "message":"Music Video for We Belong" 
         }
       ],
       "iframeSelects":[
         {
+          "yaw": 4,
+          "pitch": -0.102,
+          "speakers":["We Belong Music Video"],
+          "links":["https://www.youtube.com/embed/2k8euwSwXWU",],
+          "speakerID":["WeBelong"],
+          "maps": [
+            {"speaker_id": "WeBelong",
+            "name": "WeBelong",
+            "link_attributes": {
+              "height": "720",
+              "width": "1280",
+              "src": "https://www.youtube.com/embed/2k8euwSwXWU",
+              "title": "Youtube video player",
+              "frameborder": "0"
+            }
+          }
+          ]
         }
       ]
     },

@@ -967,17 +967,20 @@ body{
 }
 
 #iframespot {
-  background-color: #444;
+  background-color: #000000;
+  border-radius: 4rem;
+  color: rgb(187, 187, 187);
+  border: 4rem solid rgb(198, 198, 198);
   position: relative;
-  width: 1280px;
-  height: 480px;
+  width: 2400px;
+  height: 1350px;
 }
 
 #iframespot .message {
   text-align: center;
-  padding-top: 190px;
-  font-size: 70px;
-  color: black;
+  padding-top:6em;
+  font-size: 84px;
+  color: rgb(187, 187, 187);
 }
 
 #adsense {
