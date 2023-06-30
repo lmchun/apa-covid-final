@@ -1398,7 +1398,7 @@ var APP_DATA = {
       "faceSize": 1344,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": -1.58,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -1427,7 +1427,17 @@ var APP_DATA = {
           "target": "24-video-room"
         }
       ],
-      "infoHotspots": [],
+      "infoHotspots": [
+        {
+          "yaw": -1.4,
+          "pitch": 0,
+          "title": "Title",
+          "text":"read <a href='https://drive.google.com/file/d/1KPnCCWXSqOxwE4llstSEhuQe30sLL6wS/view?usp=sharing'target='_blank'>Love Letters to Chinatown</a>"
+        },
+        {
+
+        }
+      ],
       "iframeSpots": [
         {
           
