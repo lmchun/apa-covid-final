@@ -726,31 +726,28 @@ var APP_DATA = {
         }
       ], "iframeSpots": [
         {
-          "yaw": 0.0335,
-          "pitch": -0.102,
-          "title": "Organization Interviews", 
-          "message":"(These interviews tell the story of how each community was doing during the pandemic.)" 
+          
         }
       ],
       "iframeSelects":[
         {
-          "yaw": 0.0335,
-          "pitch": -0.102,
-          "speakers":["Tavae Samuelu","Khalid Latif","Cathy Dang","Chanika Svetvilas","Alice Wong","Moumita Ahmed & Rima Begum", "Celina Su","Kabzuag Vaj", "Lisa Fu"],
-          "links":["https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8",],
-          "speakerID":["TSamuelu","KLatif","CDang","CSvetvilas","AWong","MAhmed","CSu","JVaj","LFu"],
-          "maps": [
-            {"speaker_id": "TSamuelu",
-            "name": "TavaeSamuelu",
-            "link_attributes": {
-              "height": "720",
-              "width": "1280",
-              "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
-              "title": "Youtube video player",
-              "frameborder": "0"
-            }
-          }
-          ]
+          // "yaw": 0.0335,
+          // "pitch": -0.102,
+          // "speakers":["Tavae Samuelu","Khalid Latif","Cathy Dang","Chanika Svetvilas","Alice Wong","Moumita Ahmed & Rima Begum", "Celina Su","Kabzuag Vaj", "Lisa Fu"],
+          // "links":["https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8",],
+          // "speakerID":["TSamuelu","KLatif","CDang","CSvetvilas","AWong","MAhmed","CSu","JVaj","LFu"],
+          // "maps": [
+          //   {"speaker_id": "TSamuelu",
+          //   "name": "TavaeSamuelu",
+          //   "link_attributes": {
+          //     "height": "720",
+          //     "width": "1280",
+          //     "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
+          //     "title": "Youtube video player",
+          //     "frameborder": "0"
+          //   }
+          // }
+          // ]
         }
       ]
     },
@@ -799,11 +796,31 @@ var APP_DATA = {
       "infoHotspots": [],
       "iframeSpots": [
         {
-          
+          "yaw": 0.0335,
+          "pitch": -0.102,
+          "title": "Organization Interviews", 
+          "message":"(These interviews tell the story of how each community was doing during the pandemic.)" 
         }
       ],
       "iframeSelects":[
         {
+          "yaw": 0.0335,
+          "pitch": -0.102,
+          "speakers":["Tavae Samuelu","Khalid Latif","Cathy Dang","Chanika Svetvilas","Alice Wong","Moumita Ahmed & Rima Begum", "Celina Su","Kabzuag Vaj", "Lisa Fu"],
+          "links":["https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8",],
+          "speakerID":["TSamuelu","KLatif","CDang","CSvetvilas","AWong","MAhmed","CSu","JVaj","LFu"],
+          "maps": [
+            {"speaker_id": "TSamuelu",
+            "name": "TavaeSamuelu",
+            "link_attributes": {
+              "height": "720",
+              "width": "1280",
+              "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
+              "title": "Youtube video player",
+              "frameborder": "0"
+            }
+          }
+          ]
         }
       ]
     },
@@ -930,11 +947,31 @@ var APP_DATA = {
       ],
       "iframeSpots": [
         {
-          
+          "yaw": 0.0335,
+          "pitch": -0.102,
+          "title": "Organization Interviews", 
+          "message":"(These interviews tell the story of how each community was doing during the pandemic.)" 
         }
       ],
       "iframeSelects":[
         {
+          "yaw": 0.0335,
+          "pitch": -0.102,
+          "speakers":["Kristina Wong"],
+          "links":["https://www.youtube.com/watch?v=WQBkb3oHa40&list=PLY-nTM9hMNIciRdTRHXTMWUyG46t1b9y4&index=9&pp=iAQB"],
+          "speakerID":["KWong"],
+          "maps": [
+            {"speaker_id": "KWong",
+            "name": "KristinaWong",
+            "link_attributes": {
+              "height": "720",
+              "width": "1280",
+              "src": "https://www.youtube.com/watch?v=WQBkb3oHa40&list=PLY-nTM9hMNIciRdTRHXTMWUyG46t1b9y4&index=9&pp=iAQB",
+              "title": "Youtube video player",
+              "frameborder": "0"
+            }
+          }
+          ]
         }
       ]
     },
