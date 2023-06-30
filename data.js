@@ -1823,7 +1823,7 @@ var APP_DATA = {
           "yaw": -0.28250543241529513,
           "pitch": -0.15658889253234065,
           "title": "&nbsp;Community Bookshelf",
-          "text": "<span id=\"docs-internal-guid-8af27470-7fff-091e-f45b-48f6c2b4a35a\"><p dir=\"ltr\" style=\"line-height:1.656;margin-right: -9pt;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">In the spirit of community abundance and nourishment, this corner is a free community library. We encourage visitors to take a book and leave one in return. What books did you read during the pandemic that nurtured your soul? Were there books that transported you elsewhere when the city was still in lockdown? What stories do you still dream about</span><span style=\"font-size: 10.5pt; font-family: Arial; color: rgb(112, 117, 122); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">—</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">or perhaps, made you dream again? We’ve seeded the community library with books from our personal collections, and would love to see the shelves filled with some of your favorites.</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">With love,</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\">Tomie Arai and Diane Wong&nbsp;</span></p><div><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br></span></div></span>"
+          "text": "<p>In the spirit of community abundance and nourishment, this corner is a free community library. We encourage visitors to take a book and leave one in return.</p><br><p> What books did you read during the pandemic that nurtured your soul? Were there books that transported you elsewhere when the city was still in lockdown? What stories do you still dream about or perhaps, made you dream again? We’ve seeded the community library with books from our personal collections, and would love to see the shelves filled with some of your favorites.</p><br><br><p>With love,</p><br><p>Tomie Arai and Diane Wong</p>"
         }
       ],
       "iframeSpots": [
@@ -1864,35 +1864,28 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
-      "infoHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 3,
+          "pitch": 0.26205539552972823,
+          "rotation": 0,
+          "target": "24-video-room"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": 0.37215313160759145,
+          "pitch": 0.7,
+          "title": "Guest Book",
+          "text": "This book was a space for visitors to leave a message."
+        }
+      ],
       "iframeSpots": [
         {
-          "yaw": 0.0335,
-          "pitch": -0.102,
-          "title": "Organization Interviews", 
-          "message":"(These interviews tell the story of how each community was doing during the pandemic.)" 
         }
       ],
       "iframeSelects":[
         {
-          "yaw": 0.0335,
-          "pitch": -0.102,
-          "speakers":["Tavae Samuelu","Khalid Latif","Cathy Dang","Chanika Svetvilas","Alice Wong","Moumita Ahmed & Rima Begum", "Celina Su","Kabzuag Vaj", "Lisa Fu"],
-          "links":["https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8",],
-          "speakerID":["TSamuelu","KLatif","CDang","CSvetvilas","AWong","MAhmed","CSu","JVaj","LFu"],
-          "maps": [
-            {"speaker_id": "TSamuelu",
-            "name": "TavaeSamuelu",
-            "link_attributes": {
-              "height": "720",
-              "width": "1280",
-              "src": "https://www.youtube.com/embed/gaA7RAy5rYg",
-              "title": "Youtube video player",
-              "frameborder": "0"
-            }
-          }
-          ]
         }
       ]
     },
