@@ -128,11 +128,11 @@
   };
 
   // create the iFrame Selectors
-    data.iframeSelects.forEach(function(obj){
+   /* data.iframeSelects.forEach(function(obj){
       //console.log(dict);
       let output_list = createIframeSelects(obj);
       console.log(output_list);
-    })
+    })*/
 
 
     return {
@@ -406,7 +406,7 @@
     iframeHotspot.appendChild(previewMessage)
     return iframeHotspot
   }
-  let  hotspotHtml = {};
+  // let  hotspotHtml = {};
 
   function createiFrameSelectElement(hotspot){
     // Create the iFrameSelect Element
@@ -422,7 +422,7 @@
     return iFrameSelectWrapper
   }
   
-  function createIframeSelects(obj){
+  /*function createIframeSelects(obj){
     let my_output = [];
     if (obj.maps){
       for (let i=0; i < obj.maps.length; i++){
@@ -436,10 +436,10 @@
           console.log(myID);
         }
         */
-      }
+     /*}
       return my_output
     }
-  }
+  }/*
   /*
   for  (let s = 0; s<data.scenes.length; s++){
     for (let i = 0; i < data.scenes[s].speakers.length; i++) {
@@ -454,12 +454,29 @@
 */    
     // console.log(hotspotHtml)   
  
+    // Get the item list element
+    
+    /*const itemList = document.getElementById('iframeselect');
+    // Get the iframe element
+    const iframe = document.getElementById('iframespot');
+    // Add click event listeners to the list items
+    itemList.addEventListener('click', function (event) {
+      // Check if a list item was clicked
+      if (event.target.tagName === 'LI') {
+        // Get the data-src attribute value from the clicked item
+        const src = event.target.getAttribute('data-source');
+        // Set the src attribute of the iframe
+        iframe.src = src;
+      }
+    });*/
+
+
 
        // Switch sources when clicked.
-       function switchHotspot(id) {
-        var wrapper = document.getElementById('iframespot');
-        wrapper.innerHTML = hotspotHtml[id];
-      }
+      //  function switchHotspot(hotspot) {
+      //   var wrapper = document.getElementById('iframespot');
+      //   wrapper.innerHTML = hotspotHtml[i];
+      // }
    
 
     var switchElements = document.querySelectorAll('[data-source]');
@@ -470,7 +487,9 @@
 
     function addClickEvent(element) {
       element.addEventListener('click', function() {
-        switchHotspot(element.getAttribute('data-source'));
+        var wrapper = document.getElementById('iframespot');
+          wrapper.innerHTML =  element.getAttribute('data-source');
+        // switchHotspot(element.getAttribute('data-source'));
       });
     }
 
