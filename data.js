@@ -1728,10 +1728,9 @@ var APP_DATA = {
       "iframeSelects":[
         {
           "yaw": 4.2,
-          "pitch": -0.102,
-          "speakers":["Tavae Samuelu","Khalid Latif","Cathy Dang","Chanika Svetvilas","Alice Wong","Moumita Ahmed & Rima Begum", "Celina Su","Kabzuag Vaj", "Lisa Fu"],
-          "links":["https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8","https://www.youtube.com/embed/M2_qlvbfwL8",],
-          "speakerID":["<iframe width='1280' height='480'  src='https://www.youtube.com/embed/WQBkb3oHa40' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>","KLatif","CDang","CSvetvilas","AWong","MAhmed","CSu","JVaj","LFu"],
+          "pitch": -0.202,
+          "speakers":["Tavae Samuelu","Imam Khalid Latif","Cathy Dang","Chanika Svetvilas","Alice Wong","Moumita Ahmed & Rima Begum", "Celina Su","Kabzuag Vaj", "Lisa Fu","Kristina Wong", "Mohammed Attia", "Xenia Diente"],
+          "speakerID":["<iframe width='2400' height='1350'  src='https://www.youtube.com/embed/-ZdhzgxAzMM' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>","<iframe width='2400' height='1350'  src='https://www.youtube.com/embed/F4ZYkv859jY' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>","<iframe width='2400' height='1350'  src='https://www.youtube.com/embed/_Kdovvpf-xE' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>","<iframe width='2400' height='1350'  src='https://www.youtube.com/embed/36C5WnILitA' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>","<iframe width='2400' height='1350'  src='https://www.youtube.com/embed/lQl31YrZchA' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>","<iframe width='2400' height='1350'  src='https://www.youtube.com/embed/3lQ-r4bv5Ko' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>","<iframe width='2400' height='1350'  src='https://www.youtube.com/embed/XlK1mqvQnPM' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>","<iframe width='2400' height='1350'  src='https://www.youtube.com/embed/3NPkCoyLzJY' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>","<iframe width='2400' height='1350'  src='https://www.youtube.com/embed/2xHMHnhWA1U' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>","<iframe width='2400' height='1350'  src='https://www.youtube.com/embed/WQBkb3oHa40' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>","<iframe width='2400' height='1350'  src='https://www.youtube.com/embed/Puyw9XVgzFM' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>","<iframe width='2400' height='1350'  src='https://www.youtube.com/embed/h8JSDIbj1ZA' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>"]
         }
       ]
     },
@@ -1911,31 +1910,11 @@ var APP_DATA = {
       "infoHotspots": [],
       "iframeSpots": [
         {
-          "yaw": -1.6,
-          "pitch": -0.102,
-          "title": "We Belong Music Video", 
-          "message":"We Belong Music Video" 
         }
       ],
       "iframeSelects":[
         {
-          "yaw": -2.2,
-          "pitch": 0,
-          "speakers":["We Belong Music Video"],
-          "links":["https://www.youtube.com/embed/2k8euwSwXWU"],
-          "speakerID":["WeBelong"],
-          "maps": [
-            {"speaker_id": "Belong",
-            "name": "We Belong",
-            "link_attributes": {
-              "height": "720",
-              "width": "1280",
-              "src": "https://www.youtube.com/embed/2k8euwSwXWU",
-              "title": "Youtube video player",
-              "frameborder": "0"
-            }
-          }
-          ]
+
         }
       ]
     },
@@ -2335,28 +2314,11 @@ var APP_DATA = {
           "yaw": 4.6,
           "pitch": -0.102,
           "title": "Organization Interviews", 
-          "message":"Music Video for We Belong" 
+          "message":"<a href='https://youtu.be/2k8euwSwXWU' target='_blank'><img style='width: 60%' src='/img/belong.png'></a>" 
         }
       ],
       "iframeSelects":[
         {
-          "yaw": 4,
-          "pitch": -0.102,
-          "speakers":["We Belong Music Video"],
-          "links":["https://www.youtube.com/embed/2k8euwSwXWU",],
-          "speakerID":["WeBelong"],
-          "maps": [
-            {"speaker_id": "WeBelong",
-            "name": "WeBelong",
-            "link_attributes": {
-              "height": "720",
-              "width": "1280",
-              "src": "https://www.youtube.com/embed/2k8euwSwXWU",
-              "title": "Youtube video player",
-              "frameborder": "0"
-            }
-          }
-          ]
         }
       ]
     },
