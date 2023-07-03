@@ -75,6 +75,7 @@ body.multiple-scenes.mobile #titleBar {
 }
 
 #titleBar .sceneName {
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.2);
   width: 100%;
   height: 100%;
   line-height: 30px;
@@ -107,6 +108,7 @@ body.multiple-scenes.mobile #titleBar {
   padding: 5px;
   background-color: #ffffff;
   color: black;
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.2);
   /* background-color: rgb(103,115,131); */
   /* background-color: rgba(103,115,131,0.8); */
 }
@@ -159,6 +161,8 @@ body.fullscreen-enabled #fullscreenToggle {
   padding: 5px;
   background-color: #ffffff;
   color: black;
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.2);
+
   /* background-color: rgb(103,115,131); */
   /* background-color: rgba(103,115,131,0.8); */
 }
@@ -215,6 +219,8 @@ body.fullscreen-enabled.mobile #autorotateToggle {
   padding: 5px;
   background-color: #ffffff;
   color: black;
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(0, 0, 0, 0.074);
   /* background-color: rgb(103,115,131); */
   /* background-color: rgba(103,115,131,0.8); */
 }
@@ -281,12 +287,18 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 
 #sceneList .scenes {
   width: 100%;
-  background-color: #ffffff;
+  background-color: rgb(255, 255, 255);
   color: black;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(0, 0, 0, 0.074);
+
   /* background-color: rgb(58,68,84); */
   /* background-color: rgba(58,68,84,0.8); */
 }
 
+/* .scenes li{
+  border-bottom: #000 1px;
+} */
 .mobile #sceneList {
   width: 100%;
   height: 100%;
@@ -515,6 +527,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 .info-hotspot .info-hotspot-icon-wrapper {
   width: 40px;
   height: 40px;
+  
 }
 
 .mobile .info-hotspot .info-hotspot-icon-wrapper {
@@ -684,8 +697,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   overflow: hidden;
   z-index: 11000 !important;
   color:#000;
-  background-color: white;
-  /* background-color: rgba(0,0,0,.5); */
+  background-color: rgba(0,0,0,0.5);
   line-height: 1.2em;
   opacity: 0;
   visibility: hidden;
@@ -712,7 +724,9 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: auto;
   height: 50px;
   color:#000;
-  background-color: white;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  z-index: 999;
   /* background-color: rgb(103,115,131); */
   /* background-color: rgba(103,115,131,0.8); */
   opacity: 0;
@@ -735,6 +749,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 90%;
   height: 90%;
   margin: 5%;
+  background-color: #087CB6;
+  border-radius: 4px;
 }
 
 .info-hotspot-modal .info-hotspot-title-wrapper {
@@ -771,7 +787,9 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 50px;
   height: 50px;
   color:#000;
-  background-color: white;
+  background-color:#EB3D1A;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+  z-index: 999;
   /* background-color: rgb(78,88,104); */
   /* background-color: rgba(78,88,104,0.8); */
   cursor: pointer;
