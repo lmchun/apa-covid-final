@@ -311,6 +311,11 @@ body.fullscreen-enabled.mobile #autorotateToggle {
   height: 30px;
 }
 
+.text:hover{
+  background-color: #BAE4F9;
+  font-weight: bold;
+}
+
 .mobile #sceneList .scene {
   height: 40px;
 }
@@ -338,7 +343,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 }
 
 #sceneList .scene.current {
-  background-color: #ffffff;
+  background-color: #DBECF4;
   color: black;
   /* background-color: rgb(103,115,131); */
   /* background-color: rgba(103,115,131,0.8); */
