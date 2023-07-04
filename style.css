@@ -113,6 +113,9 @@ body.multiple-scenes.mobile #titleBar {
   /* background-color: rgba(103,115,131,0.8); */
 }
 
+#fullscreenToggle:hover{
+  background-color: rgb(217, 217, 217);
+}
 .mobile #fullscreenToggle {
   width: 50px;
   height: 50px;
@@ -162,11 +165,13 @@ body.fullscreen-enabled #fullscreenToggle {
   background-color: #ffffff;
   color: black;
   box-shadow: 0 8px 4px rgba(0, 0, 0, 0.2);
-
   /* background-color: rgb(103,115,131); */
   /* background-color: rgba(103,115,131,0.8); */
 }
 
+#autorotateToggle:hover{
+  background-color: rgb(217, 217, 217);
+}
 .mobile #autorotateToggle {
   width: 50px;
   height: 50px;
@@ -217,7 +222,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
   width: 40px;
   height: 40px;
   padding: 5px;
-  background-color: #ffffff;
+  background-color: #BAE4F9;
   color: black;
   box-shadow: 0 8px 4px rgba(0, 0, 0, 0.2);
   border: 1px solid rgba(0, 0, 0, 0.074);
@@ -229,6 +234,12 @@ body.fullscreen-enabled.mobile #autorotateToggle {
   width: 50px;
   height: 50px;
 }
+
+#sceneListToggle:hover{
+background-color: #79ccf6;
+}
+
+
 
 #sceneListToggle .text {
   position: absolute;
@@ -330,8 +341,13 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 
 .mobile #sceneList .scene {
   height: 40px;
+  background-color:white;
 }
 
+.indent{
+  background-color:white;
+
+}
 #sceneList .scene .text {
   width: 100%;
   height: 100%;
@@ -942,11 +958,16 @@ body.view-control-buttons .viewControlButton {
 }
 
 .btn-black{
-  background-color: black;
+  background-color: rgb(46, 46, 46);
   color: white;
   padding: 1rem 2rem;
 }
 
+
+.btn-black:hover{
+  background-color: rgb(0, 0, 0);
+
+}
 .btn-black2{
   color: rgb(0, 0, 0);
   border-radius:0.4rem;
@@ -957,6 +978,9 @@ body{
   font-family: 'Gothic A1', sans-serif;
 }
 
+[data-back-button]{
+  display:none;
+}
 
 [data-source] {
   display: inline-block;
@@ -972,7 +996,9 @@ body{
   opacity: 0.95;
 }
 
-
+ol{
+  background-color:white;
+}
 #iframeselect li{
   width: 100%;
   padding: 1em;
