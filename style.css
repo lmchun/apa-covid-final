@@ -311,7 +311,7 @@ background-color: #79ccf6;
   border-bottom: #000 1px;
 } */
 .mobile #sceneList {
-  width: 100%;
+  width: 90%;
   height: 100%;
   left: -100%;
 }

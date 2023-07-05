@@ -1468,7 +1468,7 @@ var APP_DATA = {
           "yaw": -0.8,
           "pitch": -0.35,
           "title": "In the Belly Vol 4",
-          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/1eKrfIQSLJd-tq0HBPyNdonVUnfyuuZJx/view?usp=sharing'target='_blank'><div style='display: flex;justify-content: center;'><img src='/img/inthebellyvol4.jpg' style='width:100px;' alt='cover of Sanctions of Empire'></div><br>In the Belly VOL. 4 </a> an abolitionist journal, SEPTEMBER 2022"
+          "text":"<a style='color:blue; text-decoration:underline;' href='https://drive.google.com/file/d/1eKrfIQSLJd-tq0HBPyNdonVUnfyuuZJx/view?usp=sharing'target='_blank'><div style='display: flex;justify-content: center;'><img src='img/inthebellyvol4.jpg' style='width:100px;' alt='cover of Sanctions of Empire'></div><br>In the Belly VOL. 4 </a> an abolitionist journal, SEPTEMBER 2022"
         },{
 
         }
