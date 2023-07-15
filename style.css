@@ -1071,3 +1071,15 @@ ol{
   visibility: visible;
   opacity: 1;
 }
+
+.subheader{
+  color: rgb(36, 36, 36);
+}
+
+.sublink{
+ font-weight: bold;
+}
+.sublink:hover{
+  text-decoration: underline !important;
+  color: blue !important;
+}

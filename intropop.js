@@ -25,7 +25,7 @@ window.addEventListener('DOMContentLoaded', function() {
     function checkCounter(){
       if(counterBtn == 0){
         instructText.innerHTML = ` <span class="material-symbols-outlined">swipe</span><br><br>
-        Click and drag your mouse,look around the scene.`
+        Click and drag your mouse, look around the scene.`
         nextButton.style.display = 'inline-block';
         backButton.style.display = 'none';
       }
